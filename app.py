@@ -303,7 +303,7 @@ from langchain_core.output_parsers.openai_functions import JsonOutputFunctionsPa
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from typing import Annotated
 
-members = ["Archery", "Tennis", "Hockey", "Skateboarding", "Paris 2024 Schedule, Venues"]
+members = ["Archery", "Tennis", "Hockey", "Skateboarding", "Paris 2024 Schedule, Venues", "General/Other"]
 system_prompt = (
     "You are a supervisor tasked with managing a conversation between the"
     " following workers:  {members}. Given the following user request,"
@@ -428,6 +428,7 @@ class AgentState(TypedDict):
     # The annotation tells the graph that new messages will always
     # be added to the current states
     messages: Annotated[Sequence[BaseMessage], operator.add]
+
     # The 'next' field indicates where to route to next
     next: str
 
@@ -534,6 +535,26 @@ hockey_agent = create_agent(llm, hockey_tools, "You are an expert in the sport o
 hockey_node = functools.partial(agent_node, agent=hockey_agent, name="Hockey")
 
 
+# 33333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+
+system_prompt="""I am an expert on Olympic related queries, specfically Paris 2024. I answer user queries with a high level of detail and accuracy and tell the user i dont know the
+answer if i am not aware of it and refer them to the official Olympic website www.olympics.org. I enjoy having conversations with people but don't answer queries that are far beyond the Olympics
+ as i am not specialized in them. You will also have access to a search tool. ONLY use this tool when you have no response to the user query."""
+
+tools_empty = [
+    StructuredTool.from_function(
+        name = "Search",
+        func = search.run,
+        description = "Useful to browse information from the internet to know recent results and information you don't know. Then, tell user the result."
+    ),
+
+]
+
+other_agent=create_agent(llm, tools_empty, system_prompt)
+
+other_node = functools.partial(agent_node, agent=other_agent, name="Other")
+
+
 # print("##################################")
 # print(archery_node)
 # print("##################################")
@@ -541,11 +562,15 @@ hockey_node = functools.partial(agent_node, agent=hockey_agent, name="Hockey")
 # print(skateboarding_node)
 
 workflow = StateGraph(AgentState)
+print("##################################")
+print(workflow)
+print("##################################")
 workflow.add_node("Tennis", tennis_node)
 workflow.add_node("Archery", archery_node)
 workflow.add_node("Skateboarding", skateboarding_node)
 workflow.add_node("Paris 2024 Schedule, Venues", schedule_node)
 workflow.add_node("Hockey", hockey_node)
+workflow.add_node("General/Other", other_node)
 workflow.add_node("supervisor", supervisor_chain)
 
 
