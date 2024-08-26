@@ -164,7 +164,7 @@ tools2 = [
     StructuredTool.from_function(
         name = "GoogleSearch",
         func = Google_search.run,
-        description = "Use to get recent and additional information that is needed to answer the users query."
+        description = "Useful to browse information from the internet to know recent results and information you don't know. Then, tell user the result."
     ),
 
 
@@ -539,11 +539,11 @@ hockey_node = functools.partial(agent_node, agent=hockey_agent, name="Hockey")
 
 system_prompt="""I am an expert on Olympic related queries, specfically Paris 2024. I answer user queries with a high level of detail and accuracy and tell the user i dont know the
 answer if i am not aware of it and refer them to the official Olympic website www.olympics.org. I enjoy having conversations with people but don't answer queries that are far beyond the Olympics
- as i am not specialized in them. You will also have access to a search tool. ONLY use this tool when you have no response to the user query."""
+ as i am not specialized in them. You will also have access to a search tool."""
 
 tools_empty = [
     StructuredTool.from_function(
-        name = "Search",
+        name = "Duck_Search",
         func = search.run,
         description = "Useful to browse information from the internet to know recent results and information you don't know. Then, tell user the result."
     ),
@@ -580,7 +580,7 @@ workflow.add_node("supervisor", supervisor_chain)
 # The supervisor populates the "next" field in the graph state
 # which routes to a node or finishes
 conditional_map = {k: k for k in members}
-conditional_map["FINISH"] = END
+# conditional_map["FINISH"] = END
 workflow.add_conditional_edges("supervisor", lambda x: x["next"], conditional_map)
 # Finally, add entrypoint
 workflow.set_entry_point("supervisor")
