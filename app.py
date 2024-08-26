@@ -574,9 +574,9 @@ workflow.add_node("General/Other", other_node)
 workflow.add_node("supervisor", supervisor_chain)
 
 
-for member in members:
-    # We want our workers to ALWAYS "report back" to the supervisor when done
-    workflow.add_edge(member, "supervisor")
+# for member in members:
+#     # We want our workers to ALWAYS "report back" to the supervisor when done
+#     workflow.add_edge(member, "supervisor")
 # The supervisor populates the "next" field in the graph state
 # which routes to a node or finishes
 conditional_map = {k: k for k in members}
