@@ -1,0 +1,814 @@
+Date,Sport,Event,Time,Additional details,Location,Closest Metro,LEFT,Start time,RIGHT,End time
+July 24,Rugby Sevens,Pool Rounds - men's,1530-2200,,Stade de France,Stade de France - Saint-Denis (RER D),1530,15:30,2200,22:00
+July 24,Football,Group Stage (Men’s),1500-2300,8 matches,Multiple locations - check official documentation,,1500,15:00,2300,23:00
+July 25,Handball,Preliminaries (Women’s),0900-1230,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1230,12:30
+July 25,Handball,Preliminaries (Women’s),1400-1730,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 25,Handball,Preliminaries (Women’s),1900-2230,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1900,19:00,2230,22:30
+July 25,Rugby Sevens,Pool Rounds - men's,1400-1700,,Stade de France,Stade de France - Saint-Denis (RER D),1400,14:00,1700,17:00
+July 25,Rugby Sevens,"Placement Matches, Quarters - men's",2000-2300,,Stade de France,Stade de France - Saint-Denis (RER D),2000,20:00,2300,23:00
+July 25,Football,Group Stage (Women’s),1700-2300,6 matches,Multiple locations - check official documentation,,1700,17:00,2300,23:00
+July 25,Archery,Ranking Round (Women’s),0930-1230,,La Defense Arena (tentative),Puteaux (Metro 1),0930,09:30,1230,12:30
+July 25,Archery,Ranking Round - men's,1415-1715,,La Defense Arena (tentative),Puteaux (Metro 1),1415,14:15,1715,17:15
+July 26,Ceremony,Opening Ceremony,,,,,,:,,:
+July 27,Canoe Slalom,Heats (M/W),1500-1910,"M C1, W K1",Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1500,15:00,1910,19:10
+July 27,Rowing,Heats (M/W),0900-1310,"Single Sculls, Double Sculls, Quadruple Sculls",Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0900,09:00,1310,13:10
+July 27,Judo,"Women’s -48kg, Men’s -60kg",1000-1400,Elimination & Medal Rounds,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1000,10:00,1400,14:00
+July 27,Judo,"Women’s -48kg, Men’s -60kg",1600-1900,Elimination & Medal Rounds,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1600,16:00,1900,19:00
+July 27,Hockey,Pool Stage (M/W),1000-1500,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+July 27,Hockey,Pool Stage (M/W),1030-1530,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1030,10:30,1530,15:30
+July 27,Hockey,Pool Stage (M/W),1700-2200,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1700,17:00,2200,22:00
+July 27,Hockey,Pool Stage (M/W),1730-2230,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1730,17:30,2230,22:30
+July 27,Badminton,Group Stage (M/W/Mixed),0830-1200,Singles & Doubles,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1200,12:00
+July 27,Badminton,Group Stage (M/W/Mixed),1400-1730,Singles & Doubles,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 27,Badminton,Group Stage (M/W/Mixed),1930-2300,Singles & Doubles,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1930,19:30,2300,23:00
+July 27,Handball,Preliminaries - men's,0900-1230,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1230,12:30
+July 27,Handball,Preliminaries - men's,1400-1730,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 27,Handball,Preliminaries - men's,1900-2230,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1900,19:00,2230,22:30
+July 27,Rugby Sevens,"Placement Matches, Semis, Finals - men's",1430-2045,,Stade de France,Stade de France - Saint-Denis (RER D),1430,14:30,2045,20:45
+July 27,Diving,Women’s Synchro 3m Springboard Final,1100-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1100,11:00,1200,12:00
+July 27,Water polo,Preliminary round (2 matches) - women's,1400-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1400,14:00,1700,17:00
+July 27,Water polo,Preliminary round (2 matches) - women's,1830-2130,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1830,18:30,2130,21:30
+July 27,Boxing,Round of 32 or 16 (W/M),1530-1755,"W 54kg, W 60kg",Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1755,17:55
+July 27,Boxing,Round of 32 or 16 (W/M),2000-2255,"M 63.5kg, M 80kg",Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2255,22:55
+July 27,Tennis,M/W singles,1200-1700,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1700,17:00
+July 27,Tennis,M/W singles,1900-2300,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1900,19:00,2300,23:00
+July 27,Tennis,"M/W singles, doubles",1200-1900,Court Suzanne Lenglen,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 27,Tennis,"M/W singles, doubles",1200-1900,Court Simonne Mathieu,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 27,Tennis,"M/W singles, doubles",1200-1900,Outside courts,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 27,Table tennis,"M/W singles preliminary round, Mixed doubles round of 16",1500-1800,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,1800,18:00
+July 27,Table tennis,M/W singles round 1,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+July 27,Surfing,M/W round 1,1900-0430,0700-1630 Tahiti time,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1900,19:00,0430,04:30
+July 27,Swimming,"W 100m fly, W 400m free, M 100m breast, M 400m free, W 4x100m free relay, M 4x100m free relay heats",1100-1300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1100,11:00,1300,13:00
+July 27,Swimming,"W 100m fly semis, M 400m free, W 400m free finals, M 100m breast semis, W 4x100m free relay, M 4x100m free relay finals",2030-2230,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2030,20:30,2230,22:30
+July 27,Football,Group Stage - men's,1500-2300,8 matches,Multiple locations - check official documentation,,1500,15:00,2300,23:00
+July 27,Skateboard,Street preliminaries - men's,1200-1530,,La Courneuve Shooting Range,La Courneuve (Metro 13),1200,12:00,1530,15:30
+July 27,Skateboard,Street medal final - men's,1700-1900,,La Courneuve Shooting Range,La Courneuve (Metro 13),1700,17:00,1900,19:00
+July 27,Shooting,Men’s & Women’s 10m Air Pistol Qualification,0900-1345,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1345,13:45
+July 27,Shooting,Mixed Team 10m Air Rifle (Qualification & Final),1030-1150,,La Courneuve Shooting Range,La Courneuve (Metro 13),1030,10:30,1150,11:50
+July 27,Volleyball,Preliminary round - men's,0900-1130,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,1130,11:30
+July 27,Volleyball,Preliminary round - men's,1300-1530,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1530,15:30
+July 27,Volleyball,Preliminary round - men's,1700-1930,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1700,17:00,1930,19:30
+July 27,Volleyball,Preliminary round - men's,2100-2330,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2100,21:00,2330,23:30
+July 27,Fencing,"Women’s Epee, Men’s Sabre (Through Quarters)",1000-1640,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1000,10:00,1640,16:40
+July 27,Fencing,"Women’s Epee, Men’s Sabre (Semis, Finals)",1900-2250,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1900,19:00,2250,22:50
+July 27,Beach Volleyball,Preliminary Phase (M/W),1400-1600,2 matches,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1400,14:00,1600,16:00
+July 27,Beach Volleyball,Preliminary Phase (M/W),1800-2000,2 matches,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1800,18:00,2000,20:00
+July 27,Beach Volleyball,Preliminary Phase (M/W),2200-0000,2 matches,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2200,22:00,0000,00:00
+July 27,Equestrian,Eventing Dressage,0930-1830,,Château de Versailles,Versailles Château - Rive Gauche (RER C),0930,09:30,1830,18:30
+July 27,Road Cycling (time trial),Men’s & Women’s Individual Time Trial Finals,1430-1830,,Pont Alexandre III,Invalides (RER C and Metro 13/8),1430,14:30,1830,18:30
+July 27,Artistic Gymnastics,Qualifications - men's,1100-1330,,Bercy Arena,Bercy (Metro 6),1100,11:00,1330,13:30
+July 27,Artistic Gymnastics,Qualifications - men's,1530-1800,,Bercy Arena,Bercy (Metro 6),1530,15:30,1800,18:00
+July 27,Artistic Gymnastics,Qualifications - men's,2000-2230,,Bercy Arena,Bercy (Metro 6),2000,20:00,2230,22:30
+July 27,Basketball (Group),Group Phase (M),1100-1515,2 matches,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+July 27,Basketball (Group),Group Phase (M),1715-1900,1 match,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+July 27,Basketball (Group),Group Phase (M),2100-2245,1 match,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+July 28,Canoe slalom,"K1 semis, finals - women's",1530-1850,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1530,15:30,1850,18:50
+July 28,Rowing,"W single sculls, M single sculls, W double sculls, M double sculls repechage, W coxless pair, M coxless pair, W lightweight double sculls, M lightweight double sculls, W coxless four, M coxless four heats",0900-1310,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0900,09:00,1310,13:10
+July 28,Judo,"W -52kg, M -66kg elimination rounds",1000-1400,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1000,10:00,1400,14:00
+July 28,Judo,"W -52kg, M -66kg medal rounds",1600-1900,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1600,16:00,1900,19:00
+July 28,Hockey,Pool stage (2 matches) - women's,1000-1500,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+July 28,Hockey,Pool stage (2 matches) - women's,1030-1530,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1030,10:30,1530,15:30
+July 28,Hockey,Pool stage (2 matches) - men's,1700-2200,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1700,17:00,2200,22:00
+July 28,Hockey,Pool stage (2 matches) - men's,1730-2230,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1730,17:30,2230,22:30
+July 28,Badminton,M/W/Mixed singles & doubles group stage,0830-1200,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1200,12:00
+July 28,Badminton,M/W/Mixed singles & doubles group stage,1400-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 28,Badminton,M/W/Mixed singles & doubles group stage,1930-2300,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1930,19:30,2300,23:00
+July 28,Handball,Preliminaries (2 matches) - women's,0900-1230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1230,12:30
+July 28,Handball,Preliminaries (2 matches) - women's,1400-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 28,Handball,Preliminaries (2 matches) - women's,1900-2230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1900,19:00,2230,22:30
+July 28,Rugby sevens,Pool rounds - women's,1530-2200,,Stade de France,Stade de France - Saint-Denis (RER D),1530,15:30,2200,22:00
+July 28,Water polo,Preliminary round (2 matches) - men's,1030-1330,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1030,10:30,1330,13:30
+July 28,Water polo,Preliminary round (2 matches) - men's,1500-1800,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1500,15:00,1800,18:00
+July 28,Water polo,Preliminary round (2 matches) - men's,1930-2230,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1930,19:30,2230,22:30
+July 28,Boxing,"W 50kg, W 66kg, M 51kg, M 57kg, M 71kg, M 92kg round of 32 or round of 16",1100-1310,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1100,11:00,1310,13:10
+July 28,Boxing,"W 50kg, W 66kg, M 51kg, M 57kg, M 71kg, M 92kg round of 32 or round of 16",1530-1740,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1740,17:40
+July 28,Boxing,"W 50kg, W 75kg, M 71kg, M 92kg round of 32 or round of 16",2000-2210,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2210,22:10
+July 28,Tennis,M/W singles,1200-1700,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1700,17:00
+July 28,Tennis,M/W singles,1900-2300,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1900,19:00,2300,23:00
+July 28,Tennis,"M/W singles, doubles",1200-1900,Court Suzanne Lenglen,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 28,Tennis,"M/W singles, doubles",1200-1900,Court Simonne Mathieu,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 28,Tennis,"M/W singles, doubles",1200-1900,Outside courts,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 28,Table tennis,M/W singles round 1,1000-1400,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1400,14:00
+July 28,Table tennis,Mixed doubles quarters,1600-1800,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1600,16:00,1800,18:00
+July 28,Table tennis,M/W singles round 1,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+July 28,Surfing,M/W round 2,1900-0430,0700-1630 Tahiti time,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1900,19:00,0430,04:30
+July 28,Swimming,"M 200m free, M 400m IM, W 100m breast, M 100m back, W 200m free heats",1100-1300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1100,11:00,1300,13:00
+July 28,Swimming,"M 400m IM, W 100m fly finals, M 200m free, W 100m breast, M 100m back semis, M 100m breast final, W 200m free semis",2030-2230,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2030,20:30,2230,22:30
+July 28,Football,Group stage (6 matches) - women's,1700-2300,,Multiple locations - check official documentation,,1700,17:00,2300,23:00
+July 28,Sailing,"M/W windsurfing, skiff",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+July 28,Archery,Team eliminations - women's,0930-1105,,La Defense Arena (tentative),Puteaux (Metro 1),0930,09:30,1105,11:05
+July 28,Archery,Team medal rounds - women's,1415-1755,,La Defense Arena (tentative),Puteaux (Metro 1),1415,14:15,1755,17:55
+July 28,Shooting,M/W 10m air rifle qualification,0915-1230,,La Courneuve Shooting Range,La Courneuve (Metro 13),0915,09:15,1230,12:30
+July 28,Shooting,M/W 10m air pistol finals,0930-1305,,La Courneuve Shooting Range,La Courneuve (Metro 13),0930,09:30,1305,13:05
+July 28,Skateboard,Street preliminaries - women's,1200-1530,,La Courneuve Shooting Range,La Courneuve (Metro 13),1200,12:00,1530,15:30
+July 28,Skateboard,Street medal final - women's,1700-1900,,La Courneuve Shooting Range,La Courneuve (Metro 13),1700,17:00,1900,19:00
+July 28,Volleyball,Preliminary round - women's,0900-1130,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,1130,11:30
+July 28,Volleyball,Preliminary round - women's,1300-1530,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1530,15:30
+July 28,Volleyball,Preliminary round - men's,1700-1930,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1700,17:00,1930,19:30
+July 28,Volleyball,Preliminary round - men's,2100-2330,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2100,21:00,2330,23:30
+July 28,Fencing,"M épée, W foil through quarters",0930-1650,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",0930,09:30,1650,16:50
+July 28,Fencing,"M épée, W foil semis, medal finals",1900-2310,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1900,19:00,2310,23:10
+July 28,Beach volleyball,M/W preliminary phase (4 matches),0900-1300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1300,13:00
+July 28,Beach volleyball,M/W preliminary phase (3 matches),1500-1800,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1500,15:00,1800,18:00
+July 28,Beach volleyball,M/W preliminary phase (3 matches),2000-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2000,20:00,2300,23:00
+July 28,Equestrian,Eventing cross-country,1030-1530,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1030,10:30,1530,15:30
+July 28,Mountain bike,Cross-country final - women's,1400-1630,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1400,14:00,1630,16:30
+July 28,Basketball (Group),M/W group phase (2 matches),1100-1515,,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+July 28,Basketball (Group),M/W group phase (1 match),1715-1900,,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+July 28,Basketball (Group),M/W group phase (1 match),2100-2245,,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+July 28,Artistic gymnastics,Qualifications - women's,0930-1320,,Bercy Arena,Bercy (Metro 6),0930,09:30,1320,13:20
+July 28,Artistic gymnastics,Qualifications - women's,1450-1630,,Bercy Arena,Bercy (Metro 6),1450,14:50,1630,16:30
+July 28,Artistic gymnastics,Qualifications - women's,1800-1940,,Bercy Arena,Bercy (Metro 6),1800,18:00,1940,19:40
+July 28,Artistic gymnastics,Qualifications - women's,2110-2250,,Bercy Arena,Bercy (Metro 6),2110,21:10,2250,22:50
+July 29,Canoe Slalom,"C1 semis, finals - men's",1530-1830,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1530,15:30,1830,18:30
+July 29,Rowing,"Rowing: M single sculls, W single sculls semis E/F, M coxless pair, W pairs, M lightweight double sculls, W lightweight double sculls, M quadruple sculls, W quadruple sculls repechage, M eight, W eight heats",0930-1220,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1220,12:20
+July 29,Judo,"W -57kg, M -73kg elimination rounds",1000-1400,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1000,10:00,1400,14:00
+July 29,Judo,"W -57kg, M -73kg medal rounds",1600-1900,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1600,16:00,1900,19:00
+July 29,Hockey,Pool stage (2 matches) - men's,1000-1500,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+July 29,Hockey,Pool stage (2 matches) - women's,1030-1530,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1030,10:30,1530,15:30
+July 29,Hockey,Pool stage (2 matches) - women's,1700-2200,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1700,17:00,2200,22:00
+July 29,Hockey,Pool stage (2 matches) - women's,1730-2230,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1730,17:30,2230,22:30
+July 29,Badminton,M/W/Mixed singles & doubles group stage,0830-1200,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1200,12:00
+July 29,Badminton,M/W/Mixed singles & doubles group stage,1400-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 29,Badminton,M/W/Mixed singles & doubles group stage,1930-2300,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1930,19:30,2300,23:00
+July 29,Handball,Preliminary round (2 matches) - men's,0900-1230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1230,12:30
+July 29,Handball,Preliminary round (2 matches) - men's,1400-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 29,Handball,Preliminary round (2 matches) - men's,1900-2230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1900,19:00,2230,22:30
+July 29,Rugby sevens,Rugby sevens: W pool rounds,1400-1700,,Stade de France,Stade de France - Saint-Denis (RER D),1400,14:00,1700,17:00
+July 29,Rugby sevens,"Rugby sevens: W placement matches, quarters",2000-2300,,Stade de France,Stade de France - Saint-Denis (RER D),2000,20:00,2300,23:00
+July 29,Diving,Synchro 10m platform final - men's,1100-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1100,11:00,1200,12:00
+July 29,Water polo,Preliminary Round - women's,1400-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1400,14:00,1700,17:00
+July 29,Water polo,Preliminary Round - women's,1830-2130,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1830,18:30,2130,21:30
+July 29,Boxing,"W 60kg, M 63.5kg, M +92kg round of 32 or 16",1100-1310,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1100,11:00,1310,13:10
+July 29,Boxing,"W 60kg, M 63.5kg, M +92kg round of 32 or 16",1530-1740,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1740,17:40
+July 29,Boxing,"W 60kg, M 63.5kg, M +92kg round of 32 or 16",2000-2210,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2210,22:10
+July 29,Tennis,"M/W Singles, M/W/Mixed Doubles",1200-1900,"Court Suzanne Lenglen, Court Simonne Mathieu, outside courts",Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 29,Tennis,M/W Singles,1200-1700,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1700,17:00
+July 29,Tennis,M/W Singles,1900-2300,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1900,19:00,2300,23:00
+July 29,Table tennis,M/W Singles Round 1,1000-1400,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1400,14:00
+July 29,Table tennis,Mixed Doubles Semis,1600-1800,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1600,16:00,1800,18:00
+July 29,Table tennis,M/W Singles Round 2,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+July 29,Surfing,Surfing: M/W round 3,1900-0430,0700-1630 Tahiti time,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1900,19:00,0430,04:30
+July 29,Swimming,"Swimming: W 400m IM, W 100m back, M 800m free heats",1100-1300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1100,11:00,1300,13:00
+July 29,Swimming,"Swimming: W 400m IM, M 200m free finals, W 100m back semis, M 100m back, W 100m breast, W 200m free finals",2030-2230,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2030,20:30,2230,22:30
+July 29,Sailing,"Sailing: M/W windsurfing, skiff",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+July 29,Archery,Team eliminations - men's,0930-1105,,La Defense Arena (tentative),Puteaux (Metro 1),0930,09:30,1105,11:05
+July 29,Archery,M team medal rounds,1415-1755,,La Defense Arena (tentative),Puteaux (Metro 1),1415,14:15,1755,17:55
+July 29,Shooting,"Shooting: Mixed team 10m air pistol qualification, M/W 10m air rifle finals",0915-1305,,La Courneuve Shooting Range,La Courneuve (Metro 13),0915,09:15,1305,13:05
+July 29,Shooting,Shooting: Trap qualification day 1 - men's,0900-1400,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1400,14:00
+July 29,Volleyball,Preliminary Round - women's,0900-1130,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,1130,11:30
+July 29,Volleyball,Preliminary Round - women's,1300-1530,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1530,15:30
+July 29,Volleyball,Preliminary Round - women's,1700-1930,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1700,17:00,1930,19:30
+July 29,Volleyball,Preliminary Round - women's,2100-2330,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2100,21:00,2330,23:30
+July 29,Fencing,"M foil, W sabre through quarters",0930-1650,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",0930,09:30,1650,16:50
+July 29,Fencing,"M foil, W sabre semis, medal finals",1900-2310,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1900,19:00,2310,23:10
+July 29,Beach Volleyball,M/W preliminary phase (4 matches),0900-1300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1300,13:00
+July 29,Beach Volleyball,M/W preliminary phase (3 matches),1500-1800,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1500,15:00,1800,18:00
+July 29,Beach Volleyball,M/W preliminary phase (3 matches),2000-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2000,20:00,2300,23:00
+July 29,Equestrian,"Eventing jumping team final, ind. final",1100-1630,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1100,11:00,1630,16:30
+July 29,Mountain bike,Mountain bike: Cross-country final - men's,1400-1630,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1400,14:00,1630,16:30
+July 29,Artistic Gymnastics,Team final - men's,1730-2030,,Bercy Arena,Bercy (Metro 6),1730,17:30,2030,20:30
+July 29,Basketball (Group),Group phase (2 matches) - women's,1100-1515,,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+July 29,Basketball (Group),W group phase (1 match),1715-1900,,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+July 29,Basketball (Group),W group phase (1 match),2100-2245,,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+July 30,Canoe slalom,"K1 heats - men's, C1 heats - women's",1500-1910,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1500,15:00,1910,19:10
+July 30,Rowing,"W single sculls, M single sculls quarters, W double sculls, M double sculls semis, W four, M four repechage",0930-1150,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1150,11:50
+July 30,Judo,"W -63kg, M -81kg elimination rounds",1000-1400,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1000,10:00,1400,14:00
+July 30,Hockey,Pool stage (2 matches) - men's,1000-1500,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+July 30,Badminton,M/W singles & doubles group stage,0830-1200,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1200,12:00
+July 30,Badminton,M/W singles & doubles group stage,1400-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 30,Badminton,M/W singles & doubles group stage,1930-2300,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1930,19:30,2300,23:00
+July 30,Handball,Preliminaries (2 matches) - women's,0900-1230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1230,12:30
+July 30,Rugby sevens,"Placement matches, semis, medal finals - women's",1430-2045,,Stade de France,Stade de France - Saint-Denis (RER D),1430,14:30,2045,20:45
+July 30,BMX freestyle,M/W seeding round,1325-1630,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1325,13:25,1630,16:30
+July 30,Water polo,Preliminary round (2 matches) - men's,1030-1330,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1030,10:30,1330,13:30
+July 30,Water polo,Preliminary round (2 matches) - men's,1500-1800,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1500,15:00,1800,18:00
+July 30,Water polo,Preliminary round (2 matches) - men's,1930-2230,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1930,19:30,2230,22:30
+July 30,Boxing,"W 54kg, W 57kg, M 51kg, M 80kg round of 32 or round of 16",1100-1340,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1100,11:00,1340,13:40
+July 30,Boxing,"W 54kg, W 57kg, M 51kg, M 80kg round of 32 or round of 16",1530-1810,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1810,18:10
+July 30,Boxing,"W 54kg, W 57kg, M 51kg, M 80kg round of 32 or round of 16",2000-2240,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2240,22:40
+July 30,Tennis,M/W singles,1200-1700,(Court Philippe Chartrier),Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1700,17:00
+July 30,Tennis,M/W singles,1900-2300,(Court Philippe Chartrier),Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1900,19:00,2300,23:00
+July 30,Tennis,"M/W singles, M/W/Mixed doubles",1200-1900,(Court Suzanne Lenglen),Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 30,Tennis,"M/W singles, M/W/Mixed doubles",1200-1900,(Court Simonne Mathieu),Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 30,Tennis,"M/W singles, M/W/Mixed doubles",1200-1900,(outside courts),Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+July 30,Table tennis,M/W singles round 2,1000-1200,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1200,12:00
+July 30,Table tennis,Mixed doubles medal finals,1330-1600,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1330,13:30,1600,16:00
+July 30,Triathlon,Individual final - men's,0800-1030,,Pont Alexandre III (start/finish),Invalides (RER C and Metro 13/8) or Franklin D. Roosevelt (Metro 1/9). Check ticket location and official website as bridge is closed. ,0800,08:00,1030,10:30
+July 30,Surfing,"M/W quarters, semis, finals",1900-0515,(0700-1715 Tahiti time),Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1900,19:00,0515,05:15
+July 30,Swimming,"W 200m fly, M 100m free, W 1500m free, W 100m free, M 200m breast, M 4x200m free relay heats",1100-1300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1100,11:00,1300,13:00
+July 30,Swimming,"M 100m free, W 200m fly semis, W 100m back, M 800m free finals, W 100m free, M 200m breast semis, M 4x200m free relay final",2030-2230,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2030,20:30,2230,22:30
+July 30,Football,Group stage (8 matches) - men's,1500-2300,,Multiple locations - check official documentation,,1500,15:00,2300,23:00
+July 30,Sailing,"M/W windsurfing, skiff",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+July 30,Archery,M/W ind. eliminations,1200-1555,,La Defense Arena (tentative),Puteaux (Metro 1),1200,12:00,1555,15:55
+July 30,Shooting,Mixed team 10m air pistol finals,0930-1050,,La Courneuve Shooting Range,La Courneuve (Metro 13),0930,09:30,1050,10:50
+July 30,Shooting,"W trap qualification day 1, M trap qualification day 2 and finals",0900-1705,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1705,17:05
+July 30,Volleyball,Preliminary round (2 matches) - men's,0900-1130,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,1130,11:30
+July 30,Volleyball,Preliminary round (2 matches) - men's,1300-1530,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1530,15:30
+July 30,Volleyball,Preliminary round (2 matches) - men's,1700-1930,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1700,17:00,1930,19:30
+July 30,Volleyball,Preliminary round (2 matches) - men's,2100-2330,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2100,21:00,2330,23:30
+July 30,Fencing,"W épée team through semis, placement matches",1200-1730,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1200,12:00,1730,17:30
+July 30,Fencing,Épée team medal finals - women's,1930-2140,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1930,19:30,2140,21:40
+July 30,Beach volleyball,M/W preliminary phase (4 matches),0900-1300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1300,13:00
+July 30,Beach volleyball,M/W preliminary phase (3 matches),1500-1800,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1500,15:00,1800,18:00
+July 30,Beach volleyball,M/W preliminary phase (3 matches),2000-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2000,20:00,2300,23:00
+July 30,Equestrian,Dressage Grand Prix qualifier,1100-1630,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1100,11:00,1630,16:30
+July 30,Artistic gymnastics,Team final - women's,1815-2030,,Bercy Arena,Bercy (Metro 6),1815,18:15,2030,20:30
+July 30,Basketball (Group),Group phase (2 matches) - men's,1100-1515,,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+July 30,Basketball (Group),Group phase (1 match) - men's,1715-1900,,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+July 30,Basketball (Group),Group phase (1 match) - men's,2100-2245,,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+July 30,Basketball 3X3,M/W pool round (4 matches),1730-1930,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1730,17:30,1930,19:30
+July 30,Basketball 3X3,M/W pool round (4 matches),2100-2300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2100,21:00,2300,23:00
+July 31,Triathlon,Ind. final - women's ,0800-1040,,,,,,,
+July 31,Badminton,M/W singles group stage,0830-1200,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1200,12:00
+July 31,Shooting,M 50m rifle 3 pos. qualification,0900-1030,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1030,10:30
+July 31,Beach volleyball,M/W preliminary phase (4 matches),0900-1300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1300,13:00
+July 31,Shooting,Trap qualification day 2 and finals - women's,0900-1705,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1705,17:05
+July 31,Handball,Preliminary round (6 matches) - men's,0900-2230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,2230,22:30
+July 31,Rowing,"M lightweight double sculls, W lightweight…",0930-1310,Finals and semifinals,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1310,13:10
+July 31,Table tennis,M/W singles round 2,1000-1300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1300,13:00
+July 31,Judo,"W -70kg, M -90kg elimination rounds",1000-1400,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1000,10:00,1400,14:00
+July 31,Equestrian,Dressage Grand Prix qualifier,1000-1530,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1000,10:00,1530,15:30
+July 31,Hockey,Pool stage (4 matches) - women's,1000-2200,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,2200,22:00
+July 31,Diving,Synchro 10m platform final - women's,1100-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1100,11:00,1200,12:00
+July 31,Swimming,"W 200m breast, M 200m back, W 200m fly heats",1100-1300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1100,11:00,1300,13:00
+July 31,Boxing,"W 60kg quarters, W 66kg, M 57kg, M 71kg round of 32 or round of 16",1100-1325,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1100,11:00,1325,13:25
+July 31,Basketball (Group),M/W group phase (2 matches),1100-1515,,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+July 31,Archery,M/W ind. eliminations,1200-1555,,La Defense Arena (tentative),Puteaux (Metro 1),1200,12:00,1555,15:55
+July 31,Tennis,M/W singles,1200-1700,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1700,17:00
+July 31,Fencing,"Sabre team through semis, placement matches - men's",1200-1730,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1200,12:00,1730,17:30
+July 31,Sailing,"M/W windsurfing, skiff",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+July 31,BMX freestyle,M/W final,1310-1630,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1310,13:10,1630,16:30
+July 31,Badminton,M/W singles group stage,1400-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+July 31,Table tennis,M/W singles round 3,1500-1800,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,1800,18:00
+July 31,Beach volleyball,M/W preliminary phase (3 matches),1500-1800,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1500,15:00,1800,18:00
+July 31,Boxing,"W 60kg quarters, W 66kg, M 57kg, M 71kg round of 32 or round of 16",1530-1810,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1810,18:10
+July 31,Canoe slalom,"C1 semis, finals - women's",1530-1830,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1530,15:30,1830,18:30
+July 31,Judo,"W -70kg, M -90kg medal rounds",1600-1900,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1600,16:00,1900,19:00
+July 31,Hockey,M/W pool stage (4 matches),1700-2230,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1700,17:00,2230,22:30
+July 31,Football,Group stage (6 matches) - women's,1700-2300,,Multiple locations - check official documentation,,1700,17:00,2300,23:00
+July 31,Basketball (Group),M/W group phase (1 match),1715-1900,,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+July 31,Basketball 3X3,M/W pool round (4 matches),1730-1930,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1730,17:30,1930,19:30
+July 31,Artistic gymnastics,Individual all-around final - men's,1730-2015,,Bercy Arena,Bercy (Metro 6),1730,17:30,2015,20:15
+July 31,Archery,M/W ind. eliminations,1745-2025,,La Defense Arena (tentative),Puteaux (Metro 1),1745,17:45,2025,20:25
+July 31,Tennis,M/W singles,1900-2300​,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1900,19:00,300​,30:0​
+July 31,Fencing,Sabre team medal finals - men's,1930-2140,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1930,19:30,2140,21:40
+July 31,Badminton,"M/W singles group play stage, Mixed doubles quarters",1930-2300,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1930,19:30,2300,23:00
+July 31,Boxing,"W 60kg quarters, W 66kg, M 57kg, M 71kg round of 32 or round of 16",2000-2225,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2225,22:25
+July 31,Table tennis,M/W singles round 3,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+July 31,Beach volleyball,M/W preliminary phase (3 matches),2000-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2000,20:00,2300,23:00
+July 31,Swimming,"W 100m free, M 200m fly finals, W 200m fly…",2030-2230,Finals and semifinals,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2030,20:30,2230,22:30
+July 31,Basketball (Group),M/W group phase (1 match),2100-2245,,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+July 31,Basketball 3X3,M/W pool round (4 matches),2100-2300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2100,21:00,2300,23:00
+July 31,Surfing,Reserve day,,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),,:,,:
+August 1,Canoe slalom,"Canoe slalom: M K1 semis, finals",1530-1835,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1530,15:30,1835,18:35
+August 1,Rowing,Various rowing events,0930-1240,Semis and finals for various events,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1240,12:40
+August 1,Judo,"W -78kg, M -100kg elimination rounds",1000-1400,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1000,10:00,1400,14:00
+August 1,Judo,"W -78kg, M -100kg medal rounds",1600-1900,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1600,16:00,1900,19:00
+August 1,Hockey,Pool stage (4 matches) - men's,1000-1500,2 sets of 2 matches each,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+August 1,Hockey,Pool stage (2 matches) - women's,1700-2200,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1700,17:00,2200,22:00
+August 1,Badminton,"Badminton: M singles round of 16, W doubles quarters",0830-1100,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1100,11:00
+August 1,Badminton,"Badminton: M doubles quarters, M singles round of 16",1300-1630,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1300,13:00,1630,16:30
+August 1,Badminton,"Badminton: W singles round of 16, Mixed doubles semis",1830-2200,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1830,18:30,2200,22:00
+August 1,Handball,Preliminaries (6 matches) - women's,0900-2230,3 sets of 2 matches each,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,2230,22:30
+August 1,Athletics,Athletics: M 20km race walk final,0730-0905,,Stade de France,Stade de France - Saint-Denis (RER D),0730,07:30,0905,09:05
+August 1,Athletics,Athletics: W 20km race walk final,0920-1105,,Stade de France,Stade de France - Saint-Denis (RER D),0920,09:20,1105,11:05
+August 1,Water polo,Preliminary round (6 matches) - men's,1030-2230,3 sets of 2 matches each,Stade Aquatique,Stade de France - Saint-Denis (RER D),1030,10:30,2230,22:30
+August 1,BMX racing,BMX racing: M/W quarters and last-chance runs,2000-2220,,Saint-Quentin-en-Yvelines BMX Stadium,Saint-Quentin-en-Yvelines (RER C),2000,20:00,2220,22:20
+August 1,Boxing,"Boxing: W 50kg, W 75kg round of 32 or round of 16, W 54kg, M 63.5kg, M 92kg quarters",1100-1325,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1100,11:00,1325,13:25
+August 1,Boxing,"Boxing: W 50kg, W 75kg round of 32 or round of 16, W 54kg, M 63.5kg, M 92kg quarters",1530-1810,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1810,18:10
+August 1,Boxing,"Boxing: W 50kg, W 75kg round of 32 or round of 16, W 54kg, M 63.5kg, M 92kg quarters",2000-2225,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2225,22:25
+August 1,Tennis,Tennis matches,1200-2300,Quarters and semifinals in various categories and courts,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,2300,23:00
+August 1,Table tennis,M/W singles quarters,"1000-1300,",,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,"300,","30:0,"
+August 1,Table tennis,M/W singles quarters,"1500-1800,",,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,"800,","80:0,"
+August 1,Table tennis,M/W singles quarters,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+August 1,Surfing,Reserve day,,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),,:,,:
+August 1,Swimming,Swimming heats and finals,"1100-1300,",Various swimming events and heats and finals,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1100,11:00,"300,","30:0,"
+August 1,Swimming,Swimming heats and finals,2030-2230,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2030,20:30,2230,22:30
+August 1,Sailing,"M/W skiff medal races, windsurfing, dinghy",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+August 1,Archery,Archery: M/W ind. eliminations,0930-1325,,La Defense Arena (tentative),Puteaux (Metro 1),0930,09:30,1325,13:25
+August 1,Archery,Archery: M/W ind. eliminations,1530-1925,,La Defense Arena (tentative),Puteaux (Metro 1),1530,15:30,1925,19:25
+August 1,Shooting,"M 50m rifle 3 pos. finals, W 50m rifle 3 pos.",0930-1330,,La Courneuve Shooting Range,La Courneuve (Metro 13),0930,09:30,1330,13:30
+August 1,Volleyball,Preliminary round - women's,0900-2330,Four rounds of preliminary matches for women’s teams,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,2330,23:30
+August 1,Fencing,"W foil team through semis, placement matches",1000-1710,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1000,10:00,1710,17:10
+August 1,Fencing,Foil team medal finals - women's,1910-2200,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1910,19:10,2200,22:00
+August 1,Golf,Golf round 1 - men's,0900-1800,,Golf National,Guyancourt (RER C),0900,09:00,1800,18:00
+August 1,Beach volleyball,Beach volleyball: M/W preliminary phase (4 matches),0900-1300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1300,13:00
+August 1,Beach volleyball,Beach volleyball: M/W preliminary phase (3 matches),1500-1800,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1500,15:00,1800,18:00
+August 1,Beach volleyball,Beach volleyball: M/W preliminary phase (3 matches),2000-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2000,20:00,2300,23:00
+August 1,Equestrian,Jumping team qualifier,1100-1400,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1100,11:00,1400,14:00
+August 1,Artistic gymnastics,Artistic gymnastics: W ind. all-around final,1815-2025,,Bercy Arena,Bercy (Metro 6),1815,18:15,2025,20:25
+August 1,Basketball (Group),Basketball: W group phase (2 matches),1100-1515,,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+August 1,Basketball (Group),Basketball: W group phase (1 match),1715-1900,,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+August 1,Basketball (Group),Basketball: W group phase (1 match),2100-2245,,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+August 1,Basketball 3X3,Basketball 3X3: M/W pool round (4 matches),0900-1100,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),0900,09:00,1100,11:00
+August 1,Basketball 3X3,Basketball 3X3: M/W pool round (4 matches),1230-1430,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1230,12:30,1430,14:30
+August 1,Basketball 3X3,Basketball 3X3: M/W pool round (4 matches),1800-2000,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1800,18:00,2000,20:00
+August 1,Basketball 3X3,Basketball 3X3: M/W pool round (4 matches),2130-2330,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2130,21:30,2330,23:30
+August 2,Rowing,Single sculls final - men's,0930-1250,F/E/D,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Rowing,Single sculls final - women's,0930-1250,F/E/D,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Rowing,Coxless pair final - men's,0930-1250,F/E/D,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Rowing,Coxless pair final - women's,0930-1250,F/E/D,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Rowing,Lightweight double final - men's,0930-1250,F/E/D,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Rowing,"Lightweight double final b - women's (check for typo, could be ""A"" or ""finals"")",0930-1250,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Rowing,Coxless pair final - men's,0930-1250,F/E/D,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Rowing,Coxless pair final - women's,0930-1250,F/E/D,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Rowing,Lightweight double final - men's,0930-1250,Medal final,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1250,12:50
+August 2,Judo,"W +78kg, M +100kg elim.",1000-1400,Elimination rounds,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1000,10:00,1400,14:00
+August 2,Judo,"W +78kg, M +100kg medal",1600-1900,Medal rounds,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1600,16:00,1900,19:00
+August 2,Hockey,Pool stage - women's,1000-1500,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+August 2,Hockey,Pool stage - men's,1030-1530,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1030,10:30,1530,15:30
+August 2,Hockey,Pool stage - men's,1700-2200,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1700,17:00,2200,22:00
+August 2,Badminton,M/W doubles semis,0830-1300,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1300,13:00
+August 2,Badminton,Singles quarters - men's,1500-2230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1500,15:00,2230,22:30
+August 2,Badminton,Mixed doubles medal matches,1500-2230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1500,15:00,2230,22:30
+August 2,Handball,Preliminaries - men's,0900-1230,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1230,12:30
+August 2,Handball,Preliminaries - men's,1400-1730,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+August 2,Handball,Preliminaries - men's,1900-2230,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1900,19:00,2230,22:30
+August 2,Athletics,Decathlon 100m - men's,1005,,Stade de France,Stade de France - Saint-Denis (RER D),1005,10:05,1005,10:05
+August 2,Athletics,Hammer throw qualification A - men's,1010,,Stade de France,Stade de France - Saint-Denis (RER D),1010,10:10,1010,10:10
+August 2,Athletics,High jump qualification - women's,1015,,Stade de France,Stade de France - Saint-Denis (RER D),1015,10:15,1015,10:15
+August 2,Athletics,100m preliminary round - women's,1035,,Stade de France,Stade de France - Saint-Denis (RER D),1035,10:35,1035,10:35
+August 2,Athletics,Decathlon long jump - men's,1055,,Stade de France,Stade de France - Saint-Denis (RER D),1055,10:55,1055,10:55
+August 2,Athletics,1500m round 1 - men's,1105,,Stade de France,Stade de France - Saint-Denis (RER D),1105,11:05,1105,11:05
+August 2,Athletics,Hammer throw qualification B - men's,1135,,Stade de France,Stade de France - Saint-Denis (RER D),1135,11:35,1135,11:35
+August 2,Athletics,100m round 1 - women's,1150,,Stade de France,Stade de France - Saint-Denis (RER D),1150,11:50,1150,11:50
+August 2,Athletics,Decathlon shot put - men's,1215,,Stade de France,Stade de France - Saint-Denis (RER D),1215,12:15,1215,12:15
+August 2,Athletics,Decathlon high jump - men's,1800,,Stade de France,Stade de France - Saint-Denis (RER D),1800,18:00,1800,18:00
+August 2,Athletics,5000m round 1 - women's,1810,,Stade de France,Stade de France - Saint-Denis (RER D),1810,18:10,1810,18:10
+August 2,Athletics,W triple jump qualification,1815,,Stade de France,Stade de France - Saint-Denis (RER D),1815,18:15,1815,18:15
+August 2,Athletics,Discus throw qualification A - women's,1855,,Stade de France,Stade de France - Saint-Denis (RER D),1855,18:55,1855,18:55
+August 2,Athletics,Mixed 4x400m relay round 1,1910,,Stade de France,Stade de France - Saint-Denis (RER D),1910,19:10,1910,19:10
+August 2,Athletics,800m round 1 - women's,1945,,Stade de France,Stade de France - Saint-Denis (RER D),1945,19:45,1945,19:45
+August 2,Athletics,Shot put qualification - men's,2010,,Stade de France,Stade de France - Saint-Denis (RER D),2010,20:10,2010,20:10
+August 2,Athletics,Discus throw qualification B - women's,2020,,Stade de France,Stade de France - Saint-Denis (RER D),2020,20:20,2020,20:20
+August 2,Athletics,Decathlon 400m - men's,2050,,Stade de France,Stade de France - Saint-Denis (RER D),2050,20:50,2050,20:50
+August 2,Athletics,"10,000m final - men's ",2120,,Stade de France,Stade de France - Saint-Denis (RER D),2120,21:20,2120,21:20
+August 2,Diving,Synchro 3m springboard final - men's,1100-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1100,11:00,1200,12:00
+August 2,Water polo,Preliminary round (2 matches) - women's,1400-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1400,14:00,1700,17:00
+August 2,Water polo,Preliminary round (2 matches) - women's,1830-2130,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1830,18:30,2130,21:30
+August 2,BMX racing,M/W semis and finals,2000-2230,,Saint-Quentin-en-Yvelines BMX Stadium,Saint-Quentin-en-Yvelines (RER C),2000,20:00,2230,22:30
+August 2,Boxing,W 57kg round of 32 or round of 16,1530-1810,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1810,18:10
+August 2,Boxing,"M 51kg, M 80kg, M +92kg quarters",1530-1810,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1810,18:10
+August 2,Boxing,W 57kg round of 32 or round of 16,2000-2240,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2240,22:40
+August 2,Boxing,"M 51kg, M 80kg, M +92kg quarters",2000-2240,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2240,22:40
+August 2,Tennis,"M singles semis, W singles bronze medal final",1200-1700,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1700,17:00
+August 2,Tennis,"M singles semis, Mixed doubles gold medal final",1900-2330,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1900,19:00,2330,23:30
+August 2,Tennis,M/Mixed doubles bronze medal final,1200-1700,Court Suzanne Lenglen,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1700,17:00
+August 2,Table tennis,M/W singles semis,1000-1200,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1200,12:00
+August 2,Table tennis,M/W singles semis,1330-1530,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1330,13:30,1530,15:30
+August 2,Surfing,Reserve day,,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),,:,,:
+August 2,Swimming,"M 100m fly, W 200m IM, W 800m free, Mixed 4x100m medley relay heats",1100-1300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1100,11:00,1300,13:00
+August 2,Swimming,"M 50m free, W 200m back, M 200m IM finals, M 100m fly, W 200m IM semis",2030-2230,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2030,20:30,2230,22:30
+August 2,Football,Quarters (4 matches) - men's,1500-0000,,Multiple locations - check official documentation,,1500,15:00,0000,00:00
+August 2,Sailing,"M/W windsurfing medal series, M/W/Mixed dinghy",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+August 2,Archery,Mixed team eliminations,0930-1205,,La Defense Arena (tentative),Puteaux (Metro 1),0930,09:30,1205,12:05
+August 2,Archery,Mixed team medal rounds,1415-1725,,La Defense Arena (tentative),Puteaux (Metro 1),1415,14:15,1725,17:25
+August 2,Shooting,25m pistol qualification - women's,0900-1400,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1400,14:00
+August 2,Shooting,50m rifle 3 pos. finals - women's,0930-1050,,La Courneuve Shooting Range,La Courneuve (Metro 13),0930,09:30,1050,10:50
+August 2,Shooting,Skeet qualification day 1 - men's,0900-1400,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1400,14:00
+August 2,Volleyball,Preliminary round - men's,0900-1130,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,1130,11:30
+August 2,Volleyball,Preliminary round - men's,1300-1530,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1530,15:30
+August 2,Volleyball,Preliminary round - men's,1700-1930,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1700,17:00,1930,19:30
+August 2,Volleyball,Preliminary round - men's,2100-2330,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2100,21:00,2330,23:30
+August 2,Fencing,"M épée team through semis, placement matches",1200-1730,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1200,12:00,1730,17:30
+August 2,Fencing,Épée team medal finals - men's,1930-2140,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1930,19:30,2140,21:40
+August 2,Golf,Golf round 2 - men's,0900-1800,,Golf National,Guyancourt (RER C),0900,09:00,1800,18:00
+August 2,Beach volleyball,M/W preliminary phase (4 matches),0900-1300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1300,13:00
+August 2,Beach volleyball,M/W preliminary phase (3 matches),1500-1800,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1500,15:00,1800,18:00
+August 2,Beach volleyball,M/W preliminary phase (3 matches),2000-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2000,20:00,2300,23:00
+August 2,Equestrian,Jumping team final,1400-1630,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1400,14:00,1630,16:30
+August 2,Basketball (Group),Group phase (2 matches) - men's,1100-1515,,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+August 2,Basketball (Group),Group phase (1 match) - men's,1715-1900,,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+August 2,Basketball (Group),Group phase (1 match) - men's,2100-2245,,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+August 2,Basketball 3X3,M/W pool round (4 matches),0900-1100,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),0900,09:00,1100,11:00
+August 2,Basketball 3X3,M/W pool round (4 matches),1230-1430,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1230,12:30,1430,14:30
+August 2,Basketball 3X3,M/W pool round (4 matches),1730-1930,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1730,17:30,1930,19:30
+August 2,Basketball 3X3,M/W pool round (4 matches),2100-2300,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2100,21:00,2300,23:00
+August 2,Trampoline gymnastics,Final - women's (specify sport if needed),1200-1430,,Bercy Arena,Bercy (Metro 6),1200,12:00,1430,14:30
+August 2,Trampoline gymnastics,Final - men's,1800-2030,,Bercy Arena,Bercy (Metro 6),1800,18:00,2030,20:30
+August 3,Canoe slalom,M/W kayak cross single Round 1 and repechage,1530-1915,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1530,15:30,1915,19:15
+August 3,Rowing,"W single sculls, M single sculls finals C/B and medal final, W eight, M eight medal final",0930-1140,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1140,11:40
+August 3,Judo,"Mixed team elimination rounds, repechage, semis",0800-1400,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),0800,08:00,1400,14:00
+August 3,Judo,Mixed team medal rounds,1600-1900,,Two locations – check official documentation,Palais Royal-Musée du Louvre (Metro 1/7),1600,16:00,1900,19:00
+August 3,Hockey,Pool stage (2 matches) - women's,1000-1500,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+August 3,Hockey,Pool stage (2 matches) - women's,1030-1530,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1030,10:30,1530,15:30
+August 3,Hockey,Pool stage (2 matches) - women's,1700-2200,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1700,17:00,2200,22:00
+August 3,Handball,Preliminaries (2 matches) - women's,0900-1230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1230,12:30
+August 3,Handball,Preliminaries (2 matches) - women's,1400-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+August 3,Handball,Preliminaries (2 matches) - women's,1900-2230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1900,19:00,2230,22:30
+August 3,Badminton,W singles quarters; W doubles medal matches,0830-1300,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1300,13:00
+August 3,Badminton,W singles quarters; W doubles medal matches,1500-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1500,15:00,1730,17:30
+August 3,Athletics,Decathlon 110m hurdles - men's,1005,,Stade de France,Stade de France - Saint-Denis (RER D),1005,10:05,1005,10:05
+August 3,Athletics,Pole vault qualification - men's,1010,,Stade de France,Stade de France - Saint-Denis (RER D),1010,10:10,1010,10:10
+August 3,Athletics,100m preliminary round - men's,1035,,Stade de France,Stade de France - Saint-Denis (RER D),1035,10:35,1035,10:35
+August 3,Athletics,Decathlon discus throw A - men's,1055,,Stade de France,Stade de France - Saint-Denis (RER D),1055,10:55,1055,10:55
+August 3,Athletics,800m repechage - women's,1110,,Stade de France,Stade de France - Saint-Denis (RER D),1110,11:10,1110,11:10
+August 3,Athletics,100m round 1 - men's,1145,,Stade de France,Stade de France - Saint-Denis (RER D),1145,11:45,1145,11:45
+August 3,Athletics,Decathlon discus throw B - men's,1200,,Stade de France,Stade de France - Saint-Denis (RER D),1200,12:00,1200,12:00
+August 3,Athletics,Decathlon pole vault - men's,1340,,Stade de France,Stade de France - Saint-Denis (RER D),1340,13:40,1340,13:40
+August 3,Athletics,Decathlon javelin throw A - men's,1910,,Stade de France,Stade de France - Saint-Denis (RER D),1910,19:10,1910,19:10
+August 3,Athletics,1500m repechage - men's,1915,,Stade de France,Stade de France - Saint-Denis (RER D),1915,19:15,1915,19:15
+August 3,Athletics,Shot put final - men's,1935,,Stade de France,Stade de France - Saint-Denis (RER D),1935,19:35,1935,19:35
+August 3,Athletics,100m semis - women's,1950,,Stade de France,Stade de France - Saint-Denis (RER D),1950,19:50,1950,19:50
+August 3,Athletics,Decathlon javelin throw B - men's,2010,,Stade de France,Stade de France - Saint-Denis (RER D),2010,20:10,2010,20:10
+August 3,Athletics,Triple jump final - women's,2020,,Stade de France,Stade de France - Saint-Denis (RER D),2020,20:20,2020,20:20
+August 3,Athletics,Mixed 4x400m relay final,2055,,Stade de France,Stade de France - Saint-Denis (RER D),2055,20:55,2055,20:55
+August 3,Athletics,100m final - women's,2120,,Stade de France,Stade de France - Saint-Denis (RER D),2120,21:20,2120,21:20
+August 3,Athletics,Decathlon 1500m final - men's,2145,,Stade de France,Stade de France - Saint-Denis (RER D),2145,21:45,2145,21:45
+August 3,Boxing,"W 50kg, W 66kg, M 57kg, M 71kg quarters, W 60kg semis",1530-1755,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1755,17:55
+August 3,Boxing,"W 50kg, W 66kg, M 57kg, M 71kg quarters, W 60kg semis",2000-2225,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2000,20:00,2225,22:25
+August 3,Football,Quarters (4 matches) - women's,1500-0000,,Multiple locations - check official documentation,,1500,15:00,0000,00:00
+August 3,Sailing,"M/W/Mixed dinghy, Mixed multihull",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+August 3,Archery,Individual eliminations; Individual medal rounds - women's,0930-1115,,La Defense Arena (tentative),Puteaux (Metro 1),0930,09:30,1115,11:15
+August 3,Archery,Individual eliminations; Individual medal rounds - women's,1300-1520,,La Defense Arena (tentative),Puteaux (Metro 1),1300,13:00,1520,15:20
+August 3,Shooting,25m pistol finals - women's,0930-1050,,#N/A,#N/A,0930,09:30,1050,10:50
+August 3,Shooting,Skeet qualification day 1 - women's,0900-1705,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),0900,09:00,1705,17:05
+August 3,Swimming,"W 50m free, M 1500m free, M 4x100m medley relay, W 4x100m medley relay heats",1100-1300,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1100,11:00,1300,13:00
+August 3,Table tennis,Singles medal finals - women's,1330-1600,,La Courneuve Shooting Range,La Courneuve (Metro 13),1330,13:30,1600,16:00
+August 3,Volleyball,Preliminary round - women's,0900-1130,,Château de Versailles,Versailles Château - Rive Gauche (RER C),0900,09:00,1130,11:30
+August 3,Volleyball,Preliminary round - women's,1300-1530,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1300,13:00,1530,15:30
+August 3,Shooting,Skeet qualification day 2 and finals - men's,0900-1705,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),0900,09:00,1705,17:05
+August 3,Swimming,"M 100m fly final, W 50m free semis, W 200m IM, W 800m free, Mixed 4x100m medley relay finals",2030-2230,,Grand Palais Éphémère,"Champs-Élysées - Clemenceau (Metro 1, closed during Olympics)",2030,20:30,2230,22:30
+August 3,Tennis,"M singles bronze medal final, W singles, M doubles gold medal finals",1200-1900,Court Philippe Chartrier,Grand Palais Éphémère,"Champs-Élysées - Clemenceau (Metro 1, closed during Olympics)",1200,12:00,1900,19:00
+August 3,Volleyball,Preliminary round - men's,1700-1930,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1700,17:00,1930,19:30
+August 3,Volleyball,Preliminary round - men's,2100-2330,,Château de Versailles,Versailles Château - Rive Gauche (RER C),2100,21:00,2330,23:30
+August 3,Water polo,Preliminary round (2 matches) - men's,1030-1330,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1030,10:30,1330,13:30
+August 3,Water polo,Preliminary round (2 matches) - men's,1500-1800,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1500,15:00,1800,18:00
+August 3,Water polo,Preliminary round (2 matches) - men's,1930-2230,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1930,19:30,2230,22:30
+August 3,Fencing,"Sabre team through semis, placement matches - women's",1130-1700,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1130,11:30,1700,17:00
+August 3,Fencing,Sabre team medal finals - women's,1900-2110,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1900,19:00,2110,21:10
+August 3,Golf,Golf round 3 - men's,0900-1800,,Golf National,Guyancourt (RER C),0900,09:00,1800,18:00
+August 3,Beach volleyball,M/W preliminary phase (4 matches),0900-1300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1300,13:00
+August 3,Beach volleyball,M/W preliminary phase or lucky loser round (3 matches),1600-1900,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1600,16:00,1900,19:00
+August 3,Beach volleyball,M/W lucky loser round (3 matches),2100-0000,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2100,21:00,0000,00:00
+August 3,Equestrian,Dressage Grand Prix Special team final,1000-1630,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1000,10:00,1630,16:30
+August 3,Road cycling,Road race - men's,1100-1815,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1100,11:00,1815,18:15
+August 3,Reserve day,Surfing,,,Château de Versailles,Versailles Château - Rive Gauche (RER C),,:,,:
+August 3,Artistic gymnastics,"M floor, W vault, M pommel horse finals",1530-1800,,Bercy Arena,Bercy (Metro 6),1530,15:30,1800,18:00
+August 3,Basketball (Group),M/W group phase (2 matches),1100-1515,,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+August 3,Basketball (Group),M/W group phase (1 match),1715-1900,,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+August 3,Basketball (Group),M/W group phase (1 match),2100-2245,,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+August 3,Basketball 3X3,Pool round (4 matches) - women's,1730-1930,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1730,17:30,1930,19:30
+August 3,Basketball 3X3,Play-in round (2 matches) - women's,2130-2230,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2130,21:30,2230,22:30
+August 4,Canoe slalom,M/W kayak cross single heats,1530-1725,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1530,15:30,1725,17:25
+August 4,Hockey,M quarters,1000-1500,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+August 4,Hockey,M quarters,1730-2230,2 matches,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1730,17:30,2230,22:30
+August 4,Badminton,M/W singles semis,0830-1300,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0830,08:30,1300,13:00
+August 4,Badminton,Doubles medal matches - men's,1500-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1500,15:00,1730,17:30
+August 4,Handball,Preliminaries - men's,0900-1230,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1230,12:30
+August 4,Handball,Preliminaries - men's,1400-1730,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1400,14:00,1730,17:30
+August 4,Handball,Preliminaries - men's,1900-2230,2 matches,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1900,19:00,2230,22:30
+August 4,Athletics,3000m steeplechase round 1 - women's,1005,,Stade de France,Stade de France - Saint-Denis (RER D),1005,10:05,1005,10:05
+August 4,Athletics,Hammer throw qualification A - women's,1020,,Stade de France,Stade de France - Saint-Denis (RER D),1020,10:20,1020,10:20
+August 4,Athletics,200m round 1 - women's,1055,,Stade de France,Stade de France - Saint-Denis (RER D),1055,10:55,1055,10:55
+August 4,Athletics,Long jump qualification - men's,1100,,Stade de France,Stade de France - Saint-Denis (RER D),1100,11:00,1100,11:00
+August 4,Athletics,Hammer throw qualification B - women's,1145,,Stade de France,Stade de France - Saint-Denis (RER D),1145,11:45,1145,11:45
+August 4,Athletics,110m hurdles round 1 - men's,1150,,Stade de France,Stade de France - Saint-Denis (RER D),1150,11:50,1150,11:50
+August 4,Athletics,400m hurdles round 1 - women's,1235,,Stade de France,Stade de France - Saint-Denis (RER D),1235,12:35,1235,12:35
+August 4,Athletics,400m round 1 - men's,1905,,Stade de France,Stade de France - Saint-Denis (RER D),1905,19:05,1905,19:05
+August 4,Athletics,High jump final - women's,1950,,Stade de France,Stade de France - Saint-Denis (RER D),1950,19:50,1950,19:50
+August 4,Athletics,100m semis - men's,2000,,Stade de France,Stade de France - Saint-Denis (RER D),2000,20:00,2000,20:00
+August 4,Athletics,Hammer throw final - men's,2030,,Stade de France,Stade de France - Saint-Denis (RER D),2030,20:30,2030,20:30
+August 4,Athletics,800m semis - women's,2035,,Stade de France,Stade de France - Saint-Denis (RER D),2035,20:35,2035,20:35
+August 4,Athletics,1500m semifinals - men's,2110,,Stade de France,Stade de France - Saint-Denis (RER D),2110,21:10,2110,21:10
+August 4,Athletics,100m final - men's,2150,,Stade de France,Stade de France - Saint-Denis (RER D),2150,21:50,2150,21:50
+August 4,Water polo,Preliminary round - women's,1400-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1400,14:00,1700,17:00
+August 4,Water polo,Preliminary round - women's,1830-2130,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1830,18:30,2130,21:30
+August 4,Boxing,57kg quarterfinals - women's,1100-1325,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1100,11:00,1325,13:25
+August 4,Boxing,"W 54kg, M 51kg, M 63.5kg, M 80kg, M 92kg semis",1100-1325,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1100,11:00,1325,13:25
+August 4,Boxing,75kg quarterfinals - women's,1530-1755,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1755,17:55
+August 4,Boxing,"W 54kg, M 51kg, M 63.5kg, M 80kg, M 92kg semis",1530-1755,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1530,15:30,1755,17:55
+August 4,Tennis,"W doubles bronze, gold medal finals, M singles gold medal final",1200-1900,Court Philippe Chartrier,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1200,12:00,1900,19:00
+August 4,Table tennis,Singles medal finals - men's,1330-1600,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1330,13:30,1600,16:00
+August 4,Swimming,"W 50m free, M 1500m free, M 4x100m medley relay, W 4x100m medley relay finals",1830-2030,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1830,18:30,2030,20:30
+August 4,Sailing,"M/W Kite, M/W/Mixed dinghy, Mixed multihull",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+August 4,Archery,Individual eliminations - men's,0930-1115,,La Defense Arena (tentative),Puteaux (Metro 1),0930,09:30,1115,11:15
+August 4,Archery,Individual medal rounds - men's,1300-1520,,La Defense Arena (tentative),Puteaux (Metro 1),1300,13:00,1520,15:20
+August 4,Shooting,25m rapid fire pistol qualification - men's,0900-1700,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1700,17:00
+August 4,Shooting,Skeet qualification day 2 and finals - women's,0930-1705,,La Courneuve Shooting Range,La Courneuve (Metro 13),0930,09:30,1705,17:05
+August 4,Volleyball,Preliminary round - women's,0900-1130,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,1130,11:30
+August 4,Volleyball,Preliminary round - women's,1300-1530,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1530,15:30
+August 4,Volleyball,Preliminary round - women's,1700-1930,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1700,17:00,1930,19:30
+August 4,Volleyball,Preliminary round - women's,2100-2330,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2100,21:00,2330,23:30
+August 4,Fencing,"M foil team through semis, placement matches",1000-1710,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1000,10:00,1710,17:10
+August 4,Fencing,Foil team medal finals - men's,1910-2200,,Grand Palais Éphémère,"Franklin D. Roosevelt (Metro 9), if Champs-Élysées - Clemenceau is closed",1910,19:10,2200,22:00
+August 4,Golf,Golf round 4 (medal final) - men's,0900-1830,,Golf National,Guyancourt (RER C),0900,09:00,1830,18:30
+August 4,Beach volleyball,M/W round of 16,0900-1100,2 matches,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1100,11:00
+August 4,Beach volleyball,M/W round of 16,1300-1500,2 matches,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1300,13:00,1500,15:00
+August 4,Beach volleyball,M/W round of 16,1700-1900,2 matches,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1700,17:00,1900,19:00
+August 4,Beach volleyball,M/W round of 16,2100-2300,2 matches,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2100,21:00,2300,23:00
+August 4,Equestrian,Dressage Grand Prix Freestyle ind. final,1000-1400,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1000,10:00,1400,14:00
+August 4,Road cycling,Road race - women's,1400-1845,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1400,14:00,1845,18:45
+August 4,Artistic gymnastics,"M rings, W uneven bars, M vault finals",1500-1740,,Bercy Arena,Bercy (Metro 6),1500,15:00,1740,17:40
+August 4,Basketball (Group),Group phase (2 matches) - women's,1100-1515,2 matches,Pierre Mauroy Stadium,Lille,1100,11:00,1515,15:15
+August 4,Basketball (Group),Group phase (2 matches) - women's,1715-1900,1 match,Pierre Mauroy Stadium,Lille,1715,17:15,1900,19:00
+August 4,Basketball (Group),Group phase (2 matches) - women's,2100-2245,1 match,Pierre Mauroy Stadium,Lille,2100,21:00,2245,22:45
+August 4,Basketball 3X3,Pool round - men's,1730-1930,4 matches,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1730,17:30,1930,19:30
+August 4,Basketball 3X3,Play-in round - men's,2130-2230,2 matches,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2130,21:30,2230,22:30
+August 5,Canoe slalom,"M/W kayak cross semis, finals",1530-1730,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1530,15:30,1730,17:30
+August 5,Wrestling,"M Greco-Roman 60kg, M Greco-Roman 130kg, W freestyle 68kg round of 16, quarters",1500-1700,,Two locations – check official documentation,,1500,15:00,1700,17:00
+August 5,Wrestling,"M Greco-Roman 60kg, M Greco-Roman 130kg, W freestyle 68kg semis",2100-2200,,Two locations – check official documentation,,2100,21:00,2200,22:00
+August 5,Hockey,Quarters (2 matches) - women's,1000-1500,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1000,10:00,1500,15:00
+August 5,Hockey,Quarters (2 matches) - women's,1730-2230,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1730,17:30,2230,22:30
+August 5,Badminton,Singles medal matches - women's,0945-1230,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0945,09:45,1230,12:30
+August 5,Badminton,Singles medal finals - men's,1430-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1430,14:30,1730,17:30
+August 5,Athletics,400m hurdles round 1 - Men's,1005,,Stade de France,Stade de France - Saint-Denis (RER D),1005,10:05,1005,10:05
+August 5,Athletics,Discus throw qualification A - Men's,1010,,Stade de France,Stade de France - Saint-Denis (RER D),1010,10:10,1010,10:10
+August 5,Athletics,Pole vault qualification - Women's,1040,,Stade de France,Stade de France - Saint-Denis (RER D),1040,10:40,1040,10:40
+August 5,Athletics,400m hurdles repechage - Women's,1050,,Stade de France,Stade de France - Saint-Denis (RER D),1050,10:50,1050,10:50
+August 5,Athletics,400m repechage - Men's,1120,,Stade de France,Stade de France - Saint-Denis (RER D),1120,11:20,1120,11:20
+August 5,Athletics,Discus throw qualification B - Men's,1135,,Stade de France,Stade de France - Saint-Denis (RER D),1135,11:35,1135,11:35
+August 5,Athletics,400m round 1 - Women's,1155,,Stade de France,Stade de France - Saint-Denis (RER D),1155,11:55,1155,11:55
+August 5,Athletics,200m repechage - Women's,1250,,Stade de France,Stade de France - Saint-Denis (RER D),1250,12:50,1250,12:50
+August 5,Athletics,Pole Vault Final - Men's,1900,,Stade de France,Stade de France - Saint-Denis (RER D),1900,19:00,1900,19:00
+August 5,Athletics,3000m steeplechase round 1 - Men's,1904,,Stade de France,Stade de France - Saint-Denis (RER D),1904,19:04,1904,19:04
+August 5,Athletics,200m round 1 - Men's,1955,,Stade de France,Stade de France - Saint-Denis (RER D),1955,19:55,1955,19:55
+August 5,Athletics,Discus throw final - Women's,2035,,Stade de France,Stade de France - Saint-Denis (RER D),2035,20:35,2035,20:35
+August 5,Athletics,200m semis - Women's,2045,,Stade de France,Stade de France - Saint-Denis (RER D),2045,20:45,2045,20:45
+August 5,Athletics,5000m final - Women's,2110,,Stade de France,Stade de France - Saint-Denis (RER D),2110,21:10,2110,21:10
+August 5,Athletics,800m final - Women's,2145,,Stade de France,Stade de France - Saint-Denis (RER D),2145,21:45,2145,21:45
+August 5,Diving,10m platform preliminary - women's,1000-1210,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1000,10:00,1210,12:10
+August 5,Diving,10m platform semis - women's,1500-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1500,15:00,1700,17:00
+August 5,Water polo,Preliminary round (3 matches) - men's,1200-1630,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1200,12:00,1630,16:30
+August 5,Water polo,Preliminary round (3 matches) - men's,1830-2300,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1830,18:30,2300,23:00
+August 5,Track cycling,"M team sprint qualifying, M team pursuit qualifying, W team sprint qualifying, first round, medal finals",1700-2020,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1700,17:00,2020,20:20
+August 5,Table tennis,M/W team round of 16,1000-1300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1300,13:00
+August 5,Table tennis,M/W team round of 16,1500-1800,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,1800,18:00
+August 5,Table tennis,M/W team round of 16,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+August 5,Triathlon,Mixed team relay final,0800-1010,,Pont Alexandre III (start/finish),Invalides (RER C and Metro 13/8) or Franklin D. Roosevelt (Metro 1/9). Check ticket location and official website as bridge is closed. ,0800,08:00,1010,10:10
+August 5,Sport climbing,"M boulder/lead semis (boulder), W speed qualification",1000-1400,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1000,10:00,1400,14:00
+August 5,Football,Semifinals - men's,1800-2100,,Multiple locations - check official documentation,,1800,18:00,2100,21:00
+August 5,Football,Semifinals - men's,2100-0000,,Multiple locations - check official documentation,,2100,21:00,0000,00:00
+August 5,Sailing,"M/W Kite, M/W/Mixed dinghy, Mixed multihull",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+August 5,Shooting,25m rapid fire pistol finals - men's,0930-1050,,La Courneuve Shooting Range,La Courneuve (Metro 13),0930,09:30,1050,10:50
+August 5,Shooting,Mixed team skeet qualification and finals,0900-1635,,La Courneuve Shooting Range,La Courneuve (Metro 13),0900,09:00,1635,16:35
+August 5,Volleyball,M quarters,0900-1130,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,1130,11:30
+August 5,Volleyball,M quarters,1300-1530,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1530,15:30
+August 5,Volleyball,M quarters,1700-1930,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1700,17:00,1930,19:30
+August 5,Volleyball,M quarters,2100-2330,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2100,21:00,2330,23:30
+August 5,Beach volleyball,M/W round of 16 (2 matches),0900-1100,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),0900,09:00,1100,11:00
+August 5,Beach volleyball,M/W round of 16 (2 matches),1300-1500,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1300,13:00,1500,15:00
+August 5,Beach volleyball,M/W round of 16 (2 matches),1700-1900,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1700,17:00,1900,19:00
+August 5,Beach volleyball,M/W round of 16 (2 matches),2100-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2100,21:00,2300,23:00
+August 5,Equestrian,Jumping ind. qualifier,1400-1800,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1400,14:00,1800,18:00
+August 5,Artistic gymnastics,"M parallel bars, W balance beam, M horizontal bar, W floor finals",1145-1515,,Bercy Arena,Bercy (Metro 6),1145,11:45,1515,15:15
+August 5,Artistic swimming,Team technical routine,1930-2100,,Bercy Arena,Bercy (Metro 6),1930,19:30,2100,21:00
+August 5,Basketball 3X3,M/W semis,1730-1930,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1730,17:30,1930,19:30
+August 5,Basketball 3X3,M/W medal finals,2100-2330,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2100,21:00,2330,23:30
+August 6,Canoe sprint,"M C2 500m, M K1 1000m, M K4 500m, W C2 500m, W K1 500m, W K4 500m heats and quarters",0930-1450,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1450,14:50
+August 6,Wrestling,"M Greco-Roman 60kg, M Greco-Roman 130kg, W freestyle 68kg repechage, M Greco-Roman 77kg, M Greco-Roman 97kg, W freestyle 50kg round of 16 and quarters",1100-1330,,Two locations – check official documentation,,1100,11:00,1330,13:30
+August 6,Wrestling,"M Greco-Roman 77kg, M Greco-Roman 97kg, W freestyle 50kg semis, M Greco-Roman 60kg, M Greco-Roman 130kg, W freestyle 68kg medal finals",1815-2145,,Two locations – check official documentation,,1815,18:15,2145,21:45
+August 6,Hockey,Semifinals - men's,1400-1600,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1400,14:00,1600,16:00
+August 6,Hockey,Semifinals - men's,1900-2100,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1900,19:00,2100,21:00
+August 6,Handball,Quarters (2 matches) - women's,0930-1130,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0930,09:30,1130,11:30
+August 6,Handball,Quarters (2 matches) - women's,1330-1530,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1330,13:30,1530,15:30
+August 6,Handball,Quarters (2 matches) - women's,1730-1930,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1730,17:30,1930,19:30
+August 6,Handball,Quarters (2 matches) - women's,2130-2330,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),2130,21:30,2330,23:30
+August 6,Athletics,1500m round 1 - women's,1005,,Stade de France,Stade de France - Saint-Denis (RER D),1005,10:05,1005,10:05
+August 6,Athletics,Javelin throw qualification A - men's,1020,,Stade de France,Stade de France - Saint-Denis (RER D),1020,10:20,1020,10:20
+August 6,Athletics,110m hurdles repechage - men's,1050,,Stade de France,Stade de France - Saint-Denis (RER D),1050,10:50,1050,10:50
+August 6,Athletics,Long jump qualification - women's,1115,,Stade de France,Stade de France - Saint-Denis (RER D),1115,11:15,1115,11:15
+August 6,Athletics,400m repechage - women's,1120,,Stade de France,Stade de France - Saint-Denis (RER D),1120,11:20,1120,11:20
+August 6,Athletics,Javelin throw qualification B - men's,1150,,Stade de France,Stade de France - Saint-Denis (RER D),1150,11:50,1150,11:50
+August 6,Athletics,M 400m hurdles repechage,1200,,Stade de France,Stade de France - Saint-Denis (RER D),1200,12:00,1200,12:00
+August 6,Athletics,200m repechage - men's,1230,,Stade de France,Stade de France - Saint-Denis (RER D),1230,12:30,1230,12:30
+August 6,Athletics,400m semifinals - men's,1935,,Stade de France,Stade de France - Saint-Denis (RER D),1935,19:35,1935,19:35
+August 6,Athletics,Hammer throw final - women's,1955,,Stade de France,Stade de France - Saint-Denis (RER D),1955,19:55,1955,19:55
+August 6,Athletics,400m hurdles semifinals - women's,2007,,Stade de France,Stade de France - Saint-Denis (RER D),2007,20:07,2007,20:07
+August 6,Athletics,Long jump final - men's,2015,,Stade de France,Stade de France - Saint-Denis (RER D),2015,20:15,2015,20:15
+August 6,Athletics,1500m final - men's,2050,,Stade de France,Stade de France - Saint-Denis (RER D),2050,20:50,2050,20:50
+August 6,Athletics,W 3000m steeplechase final,2110,,Stade de France,Stade de France - Saint-Denis (RER D),2110,21:10,2110,21:10
+August 6,Athletics,200m final - women's,2140,,Stade de France,Stade de France - Saint-Denis (RER D),2140,21:40,2140,21:40
+August 6,Diving,3m springboard preliminary - men's,1000-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1000,10:00,1200,12:00
+August 6,Diving,10m platform final - women's,1500-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1500,15:00,1700,17:00
+August 6,Water polo,Quarters (2 matches) - women's,1400-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1400,14:00,1700,17:00
+August 6,Water polo,Quarters (2 matches) - women's,1900-2200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1900,19:00,2200,22:00
+August 6,Boxing,"W 50kg, W 66kg, M 71kg semis, W 60kg final",2130-2330,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2130,21:30,2330,23:30
+August 6,Track cycling,"M team sprint first round, medal finals, M team pursuit first round, W team pursuit qualifying",1730-2030,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1730,17:30,2030,20:30
+August 6,Table tennis,M/W team round of 16,1000-1300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1300,13:00
+August 6,Table tennis,M/W team quarters,1500-1800,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,1800,18:00
+August 6,Table tennis,M/W team quarters,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+August 6,Sport climbing,"W boulder/lead semis (boulder), M speed qualification",1000-1400,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1000,10:00,1400,14:00
+August 6,Football,Semifinals - women's,1800-2100,,Multiple locations - check official documentation,,1800,18:00,2100,21:00
+August 6,Football,Semifinals - women's,2100-0000,,Multiple locations - check official documentation,,2100,21:00,0000,00:00
+August 6,Sailing,"M/W dinghy medal races, M/W Kite, Mixed dinghy, Mixed multihull",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+August 6,Skateboard,Park preliminaries - women's,1230-1600,,La Courneuve Shooting Range,La Courneuve (Metro 13),1230,12:30,1600,16:00
+August 6,Skateboard,Park medal final - women's,1730-1900,,La Courneuve Shooting Range,La Courneuve (Metro 13),1730,17:30,1900,19:00
+August 6,Volleyball,Quarters (2 matches) - women's,0900-1130,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),0900,09:00,1130,11:30
+August 6,Volleyball,Quarters (2 matches) - women's,1300-1530,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1530,15:30
+August 6,Volleyball,Quarters (2 matches) - women's,1700-1930,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1700,17:00,1930,19:30
+August 6,Volleyball,Quarters (2 matches) - women's,2100-2330,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2100,21:00,2330,23:30
+August 6,Beach volleyball,M/W quarters (2 matches),1700-1900,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1700,17:00,1900,19:00
+August 6,Beach volleyball,M/W quarters (2 matches),2100-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2100,21:00,2300,23:00
+August 6,Equestrian,Jumping ind. final,1000-1230,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1000,10:00,1230,12:30
+August 6,Artistic swimming,Team free routine,1930-2100,,Bercy Arena,Bercy (Metro 6),1930,19:30,2100,21:00
+August 6,Basketball,M quarters,1100-1300,,Bercy Arena,Bercy (Metro 6),1100,11:00,1300,13:00
+August 6,Basketball,M quarters,1430-1630,,Bercy Arena,Bercy (Metro 6),1430,14:30,1630,16:30
+August 6,Basketball,M quarters,1800-2000,,Bercy Arena,Bercy (Metro 6),1800,18:00,2000,20:00
+August 6,Basketball,M quarters,2130-2330,,Bercy Arena,Bercy (Metro 6),2130,21:30,2330,23:30
+August 7,Canoe sprint,"M C1 1000m, M K2 500m, W C1 200m, W K2 500m heats and quarters",0930-1510,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),0930,09:30,1510,15:10
+August 7,Wrestling,"M Greco-Roman 77kg, M Greco-Roman 97kg, W freestyle 50kg repechage, M Greco-Roman 67kg, M Greco-Roman 87kg, W freestyle 53kg round of 16 and quarters",1100-1330,,Two locations – check official documentation,,1100,11:00,1330,13:30
+August 7,Wrestling,"M Greco-Roman 67kg, M Greco-Roman 87kg, W freestyle 53kg semis, M Greco-Roman 77kg, M Greco-Roman 97kg, W freestyle 50kg medal finals",1815-2145,,Two locations – check official documentation,,1815,18:15,2145,21:45
+August 7,Hockey,Semifinals - women's,1400-1600,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1400,14:00,1600,16:00
+August 7,Hockey,Semifinals - women's,1900-2100,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1900,19:00,2100,21:00
+August 7,Handball,M quarters,0930-1130,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0930,09:30,1130,11:30
+August 7,Handball,M quarters,1330-1530,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1330,13:30,1530,15:30
+August 7,Handball,M quarters,1730-1930,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1730,17:30,1930,19:30
+August 7,Handball,M quarters,2130-2330,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),2130,21:30,2330,23:30
+August 7,Athletics,Marathon race walk mixed relay final,0730-1050,,Stade de France,Stade de France - Saint-Denis (RER D),0730,07:30,1050,10:50
+August 7,Athletics,High jump qualification - men's,1005,,Stade de France,Stade de France - Saint-Denis (RER D),1005,10:05,1005,10:05
+August 7,Athletics,100m hurdles round 1 - women's,1015,,Stade de France,Stade de France - Saint-Denis (RER D),1015,10:15,1015,10:15
+August 7,Athletics,Javelin throw qualification A - women's,1025,,Stade de France,Stade de France - Saint-Denis (RER D),1025,10:25,1025,10:25
+August 7,Athletics,5000m round 1 - men's,1100,,Stade de France,Stade de France - Saint-Denis (RER D),1100,11:00,1100,11:00
+August 7,Athletics,800m round 1 - men's,1145,,Stade de France,Stade de France - Saint-Denis (RER D),1145,11:45,1145,11:45
+August 7,Athletics,Javelin throw qualification B - women's,1150,,Stade de France,Stade de France - Saint-Denis (RER D),1150,11:50,1150,11:50
+August 7,Athletics,1500m repechage - women's,1235,,Stade de France,Stade de France - Saint-Denis (RER D),1235,12:35,1235,12:35
+August 7,Athletics,Pole vault final - women's,1900,,Stade de France,Stade de France - Saint-Denis (RER D),1900,19:00,1900,19:00
+August 7,Athletics,110m hurdles semifinals - men's,1905,,Stade de France,Stade de France - Saint-Denis (RER D),1905,19:05,1905,19:05
+August 7,Athletics,Triple jump qualification - men's,1915,,Stade de France,Stade de France - Saint-Denis (RER D),1915,19:15,1915,19:15
+August 7,Athletics,400m hurdles semifinals - men's,1935,,Stade de France,Stade de France - Saint-Denis (RER D),1935,19:35,1935,19:35
+August 7,Athletics,200m semifinals - men's,2002,,Stade de France,Stade de France - Saint-Denis (RER D),2002,20:02,2002,20:02
+August 7,Athletics,Discus throw final - men's,2025,,Stade de France,Stade de France - Saint-Denis (RER D),2025,20:25,2025,20:25
+August 7,Athletics,400m semifinals - women's,2045,,Stade de France,Stade de France - Saint-Denis (RER D),2045,20:45,2045,20:45
+August 7,Athletics,400m final - men's,2120,,Stade de France,Stade de France - Saint-Denis (RER D),2120,21:20,2120,21:20
+August 7,Athletics,3000m steeplechase final - men's,2140,,Stade de France,Stade de France - Saint-Denis (RER D),2140,21:40,2140,21:40
+August 7,Diving,3m springboard semifinals - men's,1000-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1000,10:00,1200,12:00
+August 7,Diving,3m springboard preliminary - women's,1500-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1500,15:00,1700,17:00
+August 7,Water polo,M quarters (2 matches),1400-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1400,14:00,1700,17:00
+August 7,Water polo,M quarters (2 matches),1900-2200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1900,19:00,2200,22:00
+August 7,Boxing,"W 57kg, M +92kg semis, M 63.5kg, M 80kg final",2130-2330,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2130,21:30,2330,23:30
+August 7,Track cycling,"M sprint qualifying, early rounds, repechage rounds, W keirin first round, repechage, W team pursuit first round",1245-1545,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1245,12:45,1545,15:45
+August 7,Track cycling,"M sprint early rounds, repechage rounds, M team pursuit medal finals, W team pursuit medal finals",1730-2025,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1730,17:30,2025,20:25
+August 7,Table tennis,M/W team quarters,1000-1300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1300,13:00
+August 7,Table tennis,M/W team quarters,1500-1800,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,1800,18:00
+August 7,Table tennis,Team semifinals - men's,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+August 7,Sport climbing,"M boulder/lead semis (lead), W speed medal finals",1000-1315,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1000,10:00,1315,13:15
+August 7,Sailing,"Mixed dinghy, Mixed multihull medal races, M/W Kite",1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+August 7,Weightlifting,Men's 61kg final,1500-1730,,Le Bourget Exhibition Centre,Le Bourget (RER B),1500,15:00,1730,17:30
+August 7,Weightlifting,49kg final - women's,1930-2200,,Le Bourget Exhibition Centre,Le Bourget (RER B),1930,19:30,2200,22:00
+August 7,Skateboard,Park preliminaries - men's,1230-1600,,La Courneuve Shooting Range,La Courneuve (Metro 13),1230,12:30,1600,16:00
+August 7,Skateboard,Park medal final - men's,1730-1900,,La Courneuve Shooting Range,La Courneuve (Metro 13),1730,17:30,1900,19:00
+August 7,Volleyball,Semifinals - men's,1600-1830,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1600,16:00,1830,18:30
+August 7,Volleyball,Semifinals - men's,2000-2230,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),2000,20:00,2230,22:30
+August 7,Golf,Golf round 1 - women's,0900-1800,,Golf National,Guyancourt (RER C),0900,09:00,1800,18:00
+August 7,Beach volleyball,M/W quarters (2 matches),1700-1900,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1700,17:00,1900,19:00
+August 7,Beach volleyball,M/W quarters (2 matches),2100-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2100,21:00,2300,23:00
+August 7,Taekwondo,"M 58kg, W 49kg qualification rounds",0900-1230,,Champ de Mars Arena,Ecole Militaire (Metro 8),0900,09:00,1230,12:30
+August 7,Taekwondo,"M 58kg, W 49kg quarters, semis",1430-1730,,Champ de Mars Arena,Ecole Militaire (Metro 8),1430,14:30,1730,17:30
+August 7,Taekwondo,"M 58kg, W 49kg repechage rounds and medal finals",1930-2300,,Champ de Mars Arena,Ecole Militaire (Metro 8),1930,19:30,2300,23:00
+August 7,Artistic swimming,Team acrobatic routine (medal final),1930-2115,,Bercy Arena,Bercy (Metro 6),1930,19:30,2115,21:15
+August 7,Basketball,Quarters (2 matches) - women's,1100-1300,,Bercy Arena,Bercy (Metro 6),1100,11:00,1300,13:00
+August 7,Basketball,Quarters (2 matches) - women's,1430-1630,,Bercy Arena,Bercy (Metro 6),1430,14:30,1630,16:30
+August 7,Basketball,Quarters (2 matches) - women's,1800-2000,,Bercy Arena,Bercy (Metro 6),1800,18:00,2000,20:00
+August 7,Basketball,Quarters (2 matches) - women's,2130-2330,,Bercy Arena,Bercy (Metro 6),2130,21:30,2330,23:30
+August 8,Canoe sprint,"M C2 500m, M K4 500m, W C2 500m, W K4 500m semis and finals",1030-1430,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1030,10:30,1430,14:30
+August 8,Hockey,Bronze-medal game - men's,1400-1600,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1400,14:00,1600,16:00
+August 8,Hockey,Gold-medal game - men's,1900-2130,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1900,19:00,2130,21:30
+August 8,Handball,Semifinals - women's,1630-1830,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1630,16:30,1830,18:30
+August 8,Handball,Semifinals - women's,2130-2330,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),2130,21:30,2330,23:30
+August 8,Athletics,Heptathlon 100m hurdles - Women's,1005,,Stade de France,Stade de France - Saint-Denis (RER D),1005,10:05,1005,10:05
+August 8,Athletics,Shot put qualification - Women's,1025,,Stade de France,Stade de France - Saint-Denis (RER D),1025,10:25,1025,10:25
+August 8,Athletics,100m hurdles repechage - Women's,1035,,Stade de France,Stade de France - Saint-Denis (RER D),1035,10:35,1035,10:35
+August 8,Athletics,Heptathlon high jump - Women's,1105,,Stade de France,Stade de France - Saint-Denis (RER D),1105,11:05,1105,11:05
+August 8,Athletics,4x100m relay round 1 - Women's,1110,,Stade de France,Stade de France - Saint-Denis (RER D),1110,11:10,1110,11:10
+August 8,Athletics,4x100m relay round 1 - Men's,1135,,Stade de France,Stade de France - Saint-Denis (RER D),1135,11:35,1135,11:35
+August 8,Athletics,800m repechage - Men's,1200,,Stade de France,Stade de France - Saint-Denis (RER D),1200,12:00,1200,12:00
+August 8,Athletics,Heptathlon shot put - Women's,1935,,Stade de France,Stade de France - Saint-Denis (RER D),1935,19:35,1935,19:35
+August 8,Athletics,1500m semis - Women's,1935,,Stade de France,Stade de France - Saint-Denis (RER D),1935,19:35,1935,19:35
+August 8,Athletics,Long jump final - Women's,2000,,Stade de France,Stade de France - Saint-Denis (RER D),2000,20:00,2000,20:00
+August 8,Athletics,Javelin throw final - Men's,2025,,Stade de France,Stade de France - Saint-Denis (RER D),2025,20:25,2025,20:25
+August 8,Athletics,200m final - Men's,2030,,Stade de France,Stade de France - Saint-Denis (RER D),2030,20:30,2030,20:30
+August 8,Athletics,Heptathlon 200m - Women's,2055,,Stade de France,Stade de France - Saint-Denis (RER D),2055,20:55,2055,20:55
+August 8,Athletics,400m hurdles final - Women's,2125,,Stade de France,Stade de France - Saint-Denis (RER D),2125,21:25,2125,21:25
+August 8,Athletics,110m hurdles final - Men's,2145,,Stade de France,Stade de France - Saint-Denis (RER D),2145,21:45,2145,21:45
+August 8,Diving,3m springboard semifinals - women's,1000-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1000,10:00,1200,12:00
+August 8,Diving,3m springboard final - men's,1500-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1500,15:00,1700,17:00
+August 8,Boxing,"W 75kg, M 57kg semis, W 54kg, M 51kg final",2130-2330,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2130,21:30,2330,23:30
+August 8,Track cycling,"M sprint quarters, classification races, M omnium (medal final), W keirin",,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),,:,,:
+August 8,Table tennis,Team semifinals - men's,1000-1300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1300,13:00
+August 8,Table tennis,Team semifinals - women's,1500-1800,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,1800,18:00
+August 8,Table tennis,Team semifinals - women's,2000-2300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),2000,20:00,2300,23:00
+August 8,Sport climbing,"W boulder/lead semis (lead), M speed medal finals",1000-1315,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1000,10:00,1315,13:15
+August 8,Marathon Swimming,10km marathon final - women's,0730-1030,,Pont Alexandre III,Invalides (RER C and Metro 13/8) or Franklin D. Roosevelt (Metro 1/8). Check ticket location and official website as bridge is closed. ,0730,07:30,1030,10:30
+August 8,Football,Bronze-medal game - men's,1700-2000,,Multiple locations - check official documentation,,1700,17:00,2000,20:00
+August 8,Sailing,M/W Kite medal series,1200-1900,,Marseille Marina,Vieux-Port - Hôtel de Ville (Metro 1),1200,12:00,1900,19:00
+August 8,Golf,Golf round 2 - women's,0900-1800,,Golf National,Guyancourt (RER C),0900,09:00,1800,18:00
+August 8,Beach volleyball,M/W semis (2 matches),1700-1900,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),1700,17:00,1900,19:00
+August 8,Beach volleyball,M/W semis (2 matches),2100-2300,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2100,21:00,2300,23:00
+August 8,Modern pentathlon,M/W fencing ranking round,1100-1730,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1100,11:00,1730,17:30
+August 8,Rhythmic gymnastics,Ind. All-around qualification,1000-1300,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1000,10:00,1300,13:00
+August 8,Rhythmic gymnastics,Ind. all-around qualification,1500-1800,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1500,15:00,1800,18:00
+August 8,Taekwondo,"M 68kg, W 57kg qualification rounds",0900-1230,,Champ de Mars Arena,Ecole Militaire (Metro 8),0900,09:00,1230,12:30
+August 8,Taekwondo,"M 68kg, W 57kg quarters, semis",1430-1730,,Champ de Mars Arena,Ecole Militaire (Metro 8),1430,14:30,1730,17:30
+August 8,Taekwondo,"M 68kg, W 57kg repechage rounds and medal finals",1930-2300,,Champ de Mars Arena,Ecole Militaire (Metro 8),1930,19:30,2300,23:00
+August 8,Basketball,Semifinals - men's,1730-1930,,Bercy Arena,Bercy (Metro 6),1730,17:30,1930,19:30
+August 8,Basketball,Semifinals - men's,2100-2300,,Bercy Arena,Bercy (Metro 6),2100,21:00,2300,23:00
+August 8,Weightlifting,59kg final - women's,1500-1730,,Le Bourget Exhibition Centre,Le Bourget (RER B),1500,15:00,1730,17:30
+August 8,Weightlifting,73kg final - men's,1930-2200,,Le Bourget Exhibition Centre,Le Bourget (RER B),1930,19:30,2200,22:00
+August 9,Canoe sprint,"M K2 500m, W C1 200m, W K2 500m semis and finals",1030-1440,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1030,10:30,1440,14:40
+August 9,Wrestling,"M freestyle 57kg, M freestyle 86kg, W freestyle 57kg repechage, M freestyle 74kg, M freestyle 125kg, W freestyle 62kg round of 16 and quarters",1100-1330,,Two locations – check official documentation,,1100,11:00,1330,13:30
+August 9,Wrestling,"M freestyle 74kg, M freestyle 125kg, W freestyle 62kg semis, M freestyle 57kg, M freestyle 86kg, W freestyle 57kg medal finals",1815-2145,,Two locations – check official documentation,,1815,18:15,2145,21:45
+August 9,Hockey,Bronze-medal game - women's,1400-1600,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),1400,14:00,1600,16:00
+August 9,Hockey,Gold-medal game - women's,2000-2230,,Stade Roland Garros (Court Suzanne Lenglen),Porte d'Auteuil (Metro 10),2000,20:00,2230,22:30
+August 9,Handball,Semifinals - men's,1630-1830,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1630,16:30,1830,18:30
+August 9,Handball,Semifinals - men's,2130-2330,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),2130,21:30,2330,23:30
+August 9,Athletics,Heptathlon long jump - Women's,1005,,Stade de France,Stade de France - Saint-Denis (RER D),1005,10:05,1005,10:05
+August 9,Athletics,4x400m relay round 1 - Women's,1040,,Stade de France,Stade de France - Saint-Denis (RER D),1040,10:40,1040,10:40
+August 9,Athletics,4x400m relay round 1 - Men's,1105,,Stade de France,Stade de France - Saint-Denis (RER D),1105,11:05,1105,11:05
+August 9,Athletics,Heptathlon javelin throw A - Women's,1120,,Stade de France,Stade de France - Saint-Denis (RER D),1120,11:20,1120,11:20
+August 9,Athletics,800m semis - Men's,1130,,Stade de France,Stade de France - Saint-Denis (RER D),1130,11:30,1130,11:30
+August 9,Athletics,100m hurdles semis - Women's,1205,,Stade de France,Stade de France - Saint-Denis (RER D),1205,12:05,1205,12:05
+August 9,Athletics,Heptathlon javelin throw B - Women's,1230,,Stade de France,Stade de France - Saint-Denis (RER D),1230,12:30,1230,12:30
+August 9,Athletics,4x100m relay final - Women's,1930,,Stade de France,Stade de France - Saint-Denis (RER D),1930,19:30,1930,19:30
+August 9,Athletics,Shot put final - Women's,1940,,Stade de France,Stade de France - Saint-Denis (RER D),1940,19:40,1940,19:40
+August 9,Athletics,4x100m relay final - Men's,1945,,Stade de France,Stade de France - Saint-Denis (RER D),1945,19:45,1945,19:45
+August 9,Athletics,400m final - Women's,2000,,Stade de France,Stade de France - Saint-Denis (RER D),2000,20:00,2000,20:00
+August 9,Athletics,Triple jump final - Men's,2010,,Stade de France,Stade de France - Saint-Denis (RER D),2010,20:10,2010,20:10
+August 9,Athletics,Heptathlon 800m final - Women's,2015,,Stade de France,Stade de France - Saint-Denis (RER D),2015,20:15,2015,20:15
+August 9,Athletics,"10,000m final - Women's",2055,,Stade de France,Stade de France - Saint-Denis (RER D),2055,20:55,2055,20:55
+August 9,Athletics,400m hurdles final - Men's,2145,,Stade de France,Stade de France - Saint-Denis (RER D),2145,21:45,2145,21:45
+August 9,Diving,M 10m platform preliminary,1000-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1000,10:00,1200,12:00
+August 9,Diving,3m springboard final - women's,1500-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1500,15:00,1700,17:00
+August 9,Water polo,M classification matches & semis (2 matches),1300-1600,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1300,13:00,1600,16:00
+August 9,Water polo,M classification matches & semis (2 matches),1800-2100,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1800,18:00,2100,21:00
+August 9,Boxing,"W 50kg, W 66kg, M 71kg, M 92kg final",2130-2330,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2130,21:30,2330,23:30
+August 9,Breaking,Individual qualifying - women's,1600-1810,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1600,16:00,1810,18:10
+August 9,Breaking,Individual final - women's,2000-2200,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2000,20:00,2200,22:00
+August 9,Track cycling,"M sprint semis, W sprint qualifying, early rounds, repechage rounds",1400-1600,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1400,14:00,1600,16:00
+August 9,Track cycling,"M sprint medal finals, W Madison final, W sprint early rounds, repechage rounds",1800-2015,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1800,18:00,2015,20:15
+August 9,Table tennis,Team bronze medal final - men's,1000-1300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1300,13:00
+August 9,Table tennis,Team gold medal final - men's,1500-1830,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,1830,18:30
+August 9,Sport climbing,Boulder/Lead medal final - men's ,1000-1330,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1000,10:00,1330,13:30
+August 9,Marathon Swimming,10km marathon final - men's,0730-1030,,Pont Alexandre III,Invalides (RER C and Metro 13/8) or Franklin D. Roosevelt (Metro 1/8). Check ticket location and official website as bridge is closed. ,0730,07:30,1030,10:30
+August 9,Football,Bronze-medal game - women's,1500-1800,,Multiple locations - check official documentation,,1500,15:00,1800,18:00
+August 9,Football,Gold-medal game - men's,1800-2130,,Multiple locations - check official documentation,,1800,18:00,2130,21:30
+August 9,Weightlifting,89kg final - men's,1500-1730,,Le Bourget Exhibition Centre,Le Bourget (RER B),1500,15:00,1730,17:30
+August 9,Weightlifting,71kg final - women's,1930-2200,,Le Bourget Exhibition Centre,Le Bourget (RER B),1930,19:30,2200,22:00
+August 9,Volleyball,Bronze-medal game - men's,1600-1830,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1600,16:00,1830,18:30
+August 9,Golf,Golf round 3 - women's,0900-1800,,Golf National,Guyancourt (RER C),0900,09:00,1800,18:00
+August 9,Beach volleyball,M or W medal finals (2 matches),2100-0000,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2100,21:00,0000,00:00
+August 9,Modern pentathlon,Semi-final 1 and semi-final 2 - men's,1300-1900,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1300,13:00,1900,19:00
+August 9,Rhythmic gymnastics,Group all-around qualification,1000-1230,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1000,10:00,1230,12:30
+August 9,Rhythmic gymnastics,Ind. all-around final,1430-1700,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1430,14:30,1700,17:00
+August 9,Taekwondo,"M 80kg, W 67kg qualification rounds",0900-1230,,Champ de Mars Arena,Ecole Militaire (Metro 8),0900,09:00,1230,12:30
+August 9,Taekwondo,"M 80kg, W 67kg quarters, semis",1430-1730,,Champ de Mars Arena,Ecole Militaire (Metro 8),1430,14:30,1730,17:30
+August 9,Taekwondo,"M 80kg, W 67kg repechage rounds and medal finals",1930-2300,,Champ de Mars Arena,Ecole Militaire (Metro 8),1930,19:30,2300,23:00
+August 9,Artistic swimming,Duet technical routine,1930-2130,,Bercy Arena,Bercy (Metro 6),1930,19:30,2130,21:30
+August 9,Basketball,Semifinals - women's,1730-1930,,Bercy Arena,Bercy (Metro 6),1730,17:30,1930,19:30
+August 9,Basketball,Semifinals - women's,2100-2300,,Bercy Arena,Bercy (Metro 6),2100,21:00,2300,23:00
+August 10,Canoe sprint,"M C1 1000m, M K1 1000m, W K1 500m semis and finals",1030-1420,,Vaires-sur-Marne Nautical Stadium,Vaires (Transilien Paris-Est),1030,10:30,1420,14:20
+August 10,Wrestling,"M freestyle 74kg, M freestyle 125kg, W freestyle 62kg repechage, M freestyle 65kg, M freestyle 97kg, W freestyle 76kg round of 16 and quarters",1100-1330,,Two locations – check official documentation,,1100,11:00,1330,13:30
+August 10,Wrestling,"M freestyle 65kg, M freestyle 97kg, W freestyle 76kg semis, M freestyle 74kg, M freestyle 125kg, W freestyle 62kg medal finals",1815-2145,,Two locations – check official documentation,,1815,18:15,2145,21:45
+August 10,Handball,Bronze-medal game - women's,1000-1200,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1000,10:00,1200,12:00
+August 10,Handball,Gold-medal game - women's,1500-1730,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1500,15:00,1730,17:30
+August 10,Athletics,Marathon final - Men's,0800-1100,,Stade de France,Stade de France - Saint-Denis (RER D),0800,08:00,1100,11:00
+August 10,Athletics,High jump final - Men's,1910,,Stade de France,Stade de France - Saint-Denis (RER D),1910,19:10,1910,19:10
+August 10,Athletics,800m final - Men's,1925,,Stade de France,Stade de France - Saint-Denis (RER D),1925,19:25,1925,19:25
+August 10,Athletics,Javelin throw final - Women's,1940,,Stade de France,Stade de France - Saint-Denis (RER D),1940,19:40,1940,19:40
+August 10,Athletics,100m hurdles final - Women's,1945,,Stade de France,Stade de France - Saint-Denis (RER D),1945,19:45,1945,19:45
+August 10,Athletics,5000m final - Men's,2000,,Stade de France,Stade de France - Saint-Denis (RER D),2000,20:00,2000,20:00
+August 10,Athletics,1500m final - Women's,2025,,Stade de France,Stade de France - Saint-Denis (RER D),2025,20:25,2025,20:25
+August 10,Athletics,4x400m relay final - Men's,2112,,Stade de France,Stade de France - Saint-Denis (RER D),2112,21:12,2112,21:12
+August 10,Athletics,4x400m relay final - Women's,2122,,Stade de France,Stade de France - Saint-Denis (RER D),2122,21:22,2122,21:22
+August 10,Diving,M 10m platform semis,1000-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1000,10:00,1200,12:00
+August 10,Diving,10m platform final - men's,1500-1700,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1500,15:00,1700,17:00
+August 10,Water polo,Bronze-medal game - women's,0900-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),0900,09:00,1200,12:00
+August 10,Water polo,"W/M classification matches, W gold-medal game",1400-2100,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1400,14:00,2100,21:00
+August 10,Boxing,"W 57kg, W 75kg, M 57kg, M +92kg final",2130-2330,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),2130,21:30,2330,23:30
+August 10,Breaking,Individual qualifying - men's,1600-1810,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1600,16:00,1810,18:10
+August 10,Breaking,Individual final - men's ,2000-2200,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),2000,20:00,2200,22:00
+August 10,Track cycling,"M keirin first round, repechage, M Madison final, W sprint quarters, classification races",1700-2020,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1700,17:00,2020,20:20
+August 10,Table tennis,Team bronze medal final - women's,1000-1300,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1000,10:00,1300,13:00
+August 10,Table tennis,Team gold medal final - women's,1500-1830,,Porte de Versailles Exhibition Centre,Porte de Versailles (Metro 12),1500,15:00,1830,18:30
+August 10,Sport climbing,Boulder/lead medal final - women's ,1000-1330,,Place de la Concorde,Palais Royal-Musée du Louvre (Metro 1/7) closed 3-4 August. Second best: Auber (RER),1000,10:00,1330,13:30
+August 10,Football,Gold-medal game - women's,1700-2030,,Multiple locations - check official documentation,,1700,17:00,2030,20:30
+August 10,Weightlifting,102kg final - men's,1130-1400,,Le Bourget Exhibition Centre,Le Bourget (RER B),1130,11:30,1400,14:00
+August 10,Weightlifting,81kg final - women's,1600-1830,,Le Bourget Exhibition Centre,Le Bourget (RER B),1600,16:00,1830,18:30
+August 10,Weightlifting,102kg+ final - men's,2030-2300,,Le Bourget Exhibition Centre,Le Bourget (RER B),2030,20:30,2300,23:00
+August 10,Volleyball,Gold-medal game - men's,1300-1545,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1545,15:45
+August 10,Volleyball,Bronze-medal game - women's,1715-1945,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1715,17:15,1945,19:45
+August 10,Golf,Golf round 4 (medal final) - women's,0900-1830,,Golf National,Guyancourt (RER C),0900,09:00,1830,18:30
+August 10,Beach volleyball,M or W medal finals (2 matches),2100-0000,,Eiffel Tower Beach Volleyball Stadium,Bir-Hakeim (Metro 6),2100,21:00,0000,00:00
+August 10,Modern pentathlon,Semi-final 1 and semi-final 2 - women's,0930-1530,,Château de Versailles,Versailles Château - Rive Gauche (RER C),0930,09:30,1530,15:30
+August 10,Modern pentathlon,Final - men's,1730-2000,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1730,17:30,2000,20:00
+August 10,Rhythmic gymnastics,Group all-around final,1400-1545,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1400,14:00,1545,15:45
+August 10,Taekwondo,"M +80kg, W +67kg qualification rounds",0900-1230,,Champ de Mars Arena,Ecole Militaire (Metro 8),0900,09:00,1230,12:30
+August 10,Taekwondo,"M +80kg, W +67kg quarters, semis",1430-1730,,Champ de Mars Arena,Ecole Militaire (Metro 8),1430,14:30,1730,17:30
+August 10,Taekwondo,"M +80kg, W +67kg repechage rounds and medal finals",1930-2300,,Champ de Mars Arena,Ecole Militaire (Metro 8),1930,19:30,2300,23:00
+August 10,Artistic swimming,Duet free routine (medal final),1930-2200,,Bercy Arena,Bercy (Metro 6),1930,19:30,2200,22:00
+August 10,Basketball,Bronze-medal game - men's,1100-1300,,Bercy Arena,Bercy (Metro 6),1100,11:00,1300,13:00
+August 10,Basketball,Gold-medal game - men's,2130-0000,,Bercy Arena,Bercy (Metro 6),2130,21:30,0000,00:00
+August 11,Athletics,Marathon final - Women's,0800-1115,,Stade de France,Stade de France - Saint-Denis (RER D),0800,08:00,1115,11:15
+August 11,Basketball,Bronze-medal game - women's,1130-1330,,Bercy Arena,Bercy (Metro 6),1130,11:30,1330,13:30
+August 11,Basketball,Gold-medal game - women's,1530-1800,,Bercy Arena,Bercy (Metro 6),1530,15:30,1800,18:00
+August 11,Handball,Bronze-medal game - men's,0900-1100,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),0900,09:00,1100,11:00
+August 11,Handball,Gold-medal game - men's,1330-1600,,Stade Pierre de Coubertin,Porte de Vincennes (Metro 1),1330,13:30,1600,16:00
+August 11,Modern pentathlon,Final - women's,1100-1330,,Château de Versailles,Versailles Château - Rive Gauche (RER C),1100,11:00,1330,13:30
+August 11,Track cycling,"M keirin quarters, semis, medal finals, W sprint semis, medal finals, W omnium (medal final)",1100-1440,,Roland-Garros Stadium,Porte d'Auteuil (Metro 10),1100,11:00,1440,14:40
+August 11,Volleyball,Gold-medal game - women's,1300-1545,,Hall 6 Exhibition Centre Paris-Le Bourget,Le Bourget (RER B),1300,13:00,1545,15:45
+August 11,Water polo,Bronze-medal game - men's,0900-1200,,Stade Aquatique,Stade de France - Saint-Denis (RER D),0900,09:00,1200,12:00
+August 11,Water polo,Gold-medal game - men's,1400-1550,,Stade Aquatique,Stade de France - Saint-Denis (RER D),1400,14:00,1550,15:50
+August 11,Weightlifting,81kg+ final - women's,1130-1400,,Le Bourget Exhibition Centre,Le Bourget (RER B),1130,11:30,1400,14:00
+August 11,Wrestling,"M freestyle 65kg, M freestyle 97kg, W freestyle 76kg repechage and medal finals",1100-1415,,Two locations – check official documentation,,1100,11:00,1415,14:15
+August 11,-,Closing Ceremony,-,,#N/A,#N/A,-,-:-,-,-:-
