@@ -81,7 +81,7 @@ import requests
 from langchain_community.document_loaders import UnstructuredHTMLLoader
 from datetime import date
 
-def obtain_live_score(query):
+def obtain_live_score():
 
     response = open("./Data/prev.html", "r", encoding='utf-8').read()
 
@@ -148,9 +148,9 @@ def obtain_live_score(query):
 
 
 # from hockey_tool import get_live_scores
-def get_live_scores_tool(query) -> str:
+def get_live_scores_tool() -> str:
     '''Obtains the live scores of hockey games in Paris 2024 Olympics.'''
-    return obtain_live_score(query)
+    return obtain_live_score()
 
 
 tools2 = [
@@ -202,20 +202,18 @@ class HockeyAgentInput(BaseModel):
 
 class CustomHockeyTool(BaseTool):
     name = "Hockey"
-    description = "useful for finding the live score of hockey"
+    description = "useful for finding the live score of hockey. Paraphrase based on the query."
     args_schema: Type[BaseModel] = HockeyAgentInput
     return_direct: bool = True
 
     def _run(
-        self, query: str, run_manager: Optional[CallbackManagerForToolRun] = None
+        run_manager: Optional[CallbackManagerForToolRun] = None
     ) -> str:
         """Use the tool."""
-        return obtain_live_score(query)
+        return obtain_live_score()
 
     async def _arun(
-        self,
-        query : str,
-        run_manager: Optional[AsyncCallbackManagerForToolRun] = None,
+        self, run_manager: Optional[AsyncCallbackManagerForToolRun] = None,
     ) -> str:
         """Use the tool asynchronously."""
         # If the calculation is cheap, you can just delegate to the sync implementation
@@ -223,11 +221,15 @@ class CustomHockeyTool(BaseTool):
         # If the sync calculation is expensive, you should delete the entire _arun method.
         # LangChain will automatically provide a better implementation that will
         # kick off the task in a thread to make sure it doesn't block other async code.
-        return self._run(query, run_manager=run_manager.get_sync())
+        return self._run(run_manager=run_manager.get_sync())
 
+structuredHockeyTool = StructuredTool.from_function(
+    func=CustomHockeyTool._run,
+    name="Hockey",
+    description="useful for finding the live score of hockey. Paraphrase based on the query",
+)
 
-
-hockey_tools = [CustomHockeyTool()]
+hockey_tools = [structuredHockeyTool]
 
 
 from langchain.agents import AgentExecutor, create_openai_tools_agent
@@ -531,7 +533,7 @@ schedule_agent=create_agent(llm, tools4,system_prompt)
 
 schedule_node = functools.partial(agent_node, agent=schedule_agent, name="Schedule")
 
-hockey_agent = create_agent(llm, hockey_tools, "You are an expert in the sport of Hockey.")
+hockey_agent = create_agent(llm, hockey_tools, "You are an expert in the sport of Hockey. Based on the user query, answer the question by checking the current hockey score. Make sure you rephrase based on the user query.")
 hockey_node = functools.partial(agent_node, agent=hockey_agent, name="Hockey")
 
 
@@ -592,18 +594,34 @@ graph = workflow.compile()
 ####################################################################
 
 
+# Initialize session states if not already set
+if "messages" not in st.session_state:
+    st.session_state.messages = [{"role": "assistant", "content": "Welcome to Paris 2024 Olympics Chatbot! How may I assist you?"}]
+if 'chat_sessions' not in st.session_state:
+    st.session_state.chat_sessions = {}
+if 'selected_chat' not in st.session_state:
+    st.session_state.selected_chat = None
+    
 
-# Store LLM generated responses
-if "messages" not in st.session_state.keys():
-    st.session_state.messages = [{"role": "assistant", "content": "Welcome to Paris 2024 Olympics Chatbot! How may i assist you?"}]
+st.sidebar.write("Existing Chat Sessions:")
+if st.session_state.chat_sessions:
+    for session_id in st.session_state.chat_sessions.keys():
+        if st.sidebar.button(session_id):
+            st.session_state.selected_chat = session_id
+            st.session_state.messages = st.session_state.chat_sessions[session_id]
+else:
+    st.sidebar.write("No chat sessions available. Start a new one by entering a Chat Session ID below.")
 
-# Display or clear chat messages
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.write(message["content"])
+new_chat_id = st.sidebar.text_input("Enter New Chat Session ID")
+if st.sidebar.button("Start New Chat Session") and new_chat_id:
+    if new_chat_id not in st.session_state.chat_sessions:
+        st.session_state.chat_sessions[new_chat_id] = [{"role": "assistant", "content": "Welcome to Paris 2024 Olympics Chatbot! How may I assist you?"}]
+    st.session_state.selected_chat = new_chat_id
+    st.session_state.messages = st.session_state.chat_sessions[new_chat_id]
+
 
 def clear_chat_history():
-    st.session_state.messages = [{"role": "assistant", "content": "Welcome to Paris 2024 Olympics Chatbot! How may i assist you?"}]
+    st.session_state.messages = [{"role": "assistant", "content": "Welcome to Paris 2024 Olympics Chatbot! How may I assist you?"}]
 st.sidebar.button('Clear Chat History', on_click=clear_chat_history)
 
 
@@ -619,28 +637,23 @@ def generate_response(question):
     return response["messages"][1].content
 
 
-# User-provided prompt
-if prompt := st.chat_input(disabled = False):
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.write(prompt)
-
-
-
-# Generate a new response if last message is not from assistant
-if st.session_state.messages[-1]["role"] != "assistant":
-    with st.chat_message("assistant"):
+if st.session_state.selected_chat:
+    # Display chat messages from history on app rerun
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
+                # st.markdown(message["content"])
+       
+                
+    if prompt := st.chat_input("Ask me anything"):
+        # Add user message to chat history
+        with st.chat_message("user"):
+            st.markdown(prompt)
+        st.session_state.messages.append({"role": "user", "content": prompt})
         with st.spinner("Generating response..."):
             response = generate_response(prompt)
             print(response)
-            # response = response[8:]
-            placeholder = st.empty()
-            # full_response = ''
-            # for item in response:
-            #     full_response += item
-            #     placeholder.markdown(full_response)
-            placeholder.markdown(response)
-    message = {"role": "assistant", "content": response}
-    st.session_state.messages.append(message)
-
+            with st.chat_message("assistant"):
+                st.markdown(response)
+        st.session_state.messages.append({"role": "assistant", "content": response})
 

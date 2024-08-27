@@ -1,0 +1,13 @@
+langchain_community
+streamlit
+chroma_hnswlib
+langchain_openai
+langchain_experimental
+tabulate
+numexpr
+duckduckgo-search
+mediawikiapi
+wikibase-rest-api-client
+google-api-python-client>=2.100.0
+faiss-cpu
+langgraph
