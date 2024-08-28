@@ -1,6 +1,7 @@
 
 import streamlit as st
 import os
+from dotenv import load_dotenv
 from langchain_community.tools import WikipediaQueryRun
 from langchain_community.utilities import WikipediaAPIWrapper
 from langchain_community.tools.tavily_search import TavilySearchResults
@@ -12,12 +13,14 @@ from langchain_community.tools.wikidata.tool import WikidataAPIWrapper, Wikidata
 from langchain.tools.render import render_text_description
 from langchain_community.utilities import GoogleSearchAPIWrapper
 
-os.environ["OPENAI_API_KEY"] = "sk-proj-o3A6td7S8Lmpl44vXhMWT3BlbkFJGnZ8QsaDb9AeoAFJtydz"
-os.environ['LANGCHAIN_ENDPOINT']= "https://api.smith.langchain.com"
-os.environ['LANGCHAIN_API_KEY']= "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"
-os.environ["GOOGLE_CSE_ID"] = "a35aa2abca5664110"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBql2QmCEP-XgLV05Fwv04C4iGJpYabdHA"
-os.environ['LANGCHAIN_TRACING_V2']='true'
+
+load_dotenv()
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+os.environ['LANGCHAIN_ENDPOINT']= os.getenv('LANGCHAIN_ENDPOINT')
+os.environ['LANGCHAIN_API_KEY']= os.getenv('LANGCHAIN_API_KEY')
+os.environ["GOOGLE_CSE_ID"] = os.getenv("GOOGLE_CSE_ID")
+os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
+os.environ['LANGCHAIN_TRACING_V2']=os.getenv('LANGCHAIN_TRACING_V2')
 os.environ["LANGCHAIN_PROJECT"] = "Final Agent"
 
 st.set_page_config(page_title="💬 Olympics Chatbot")
