@@ -11,3 +11,4 @@ wikibase-rest-api-client
 google-api-python-client>=2.100.0
 faiss-cpu
 langgraph
+wikipedia
