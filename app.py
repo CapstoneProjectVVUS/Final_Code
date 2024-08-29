@@ -51,8 +51,8 @@ from langchain_experimental.tools.python.tool import PythonAstREPLTool
 tools4 = [PythonAstREPLTool(locals={"df": df})]
 
 from langchain_openai import ChatOpenAI
-llm = ChatOpenAI(model="gpt-3.5-turbo-0125", temperature=0.3)
-# llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.3)
+# llm = ChatOpenAI(model="gpt-3.5-turbo-0125", temperature=0.3)
+llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.3)
 
 wikipedia = WikipediaQueryRun(api_wrapper=WikipediaAPIWrapper())
 # tavily_tool = TavilySearchResults(max_results=5)
@@ -315,7 +315,7 @@ system_prompt = (
     " following workers:  {members}. Given the following user request,"
     " respond with the worker to act next. Each worker will perform a"
     " task and respond with their results and status. When finished,"
-    " respond with FINISH."
+    " respond with FINISH. You HAVE to choose ONLY from these members."
 )
 # Our team supervisor is an LLM node. It just picks the next agent to process
 # and decides when the work is completed
