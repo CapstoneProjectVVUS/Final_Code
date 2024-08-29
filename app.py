@@ -76,6 +76,20 @@ embeddings = OpenAIEmbeddings()
 db = FAISS.from_documents(texts, embeddings)
 retriever2 = db.as_retriever()
 
+
+loader = TextLoader("./Data/RecurveParis2024Results.txt")
+documents = loader.load()
+
+from langchain_community.vectorstores import FAISS
+from langchain_openai import OpenAIEmbeddings
+from langchain_text_splitters import CharacterTextSplitter
+
+text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+texts = text_splitter.split_documents(documents)
+embeddings = OpenAIEmbeddings()
+db_recurve = FAISS.from_documents(texts, embeddings)
+retriever_recurve = db_recurve.as_retriever()
+
 from langchain.agents import Tool, load_tools
 from langchain.tools import StructuredTool
 from langchain.tools.retriever import create_retriever_tool
@@ -163,6 +177,12 @@ tools2 = [
         retriever2,
         "List_of_Athletes",
         "Use only when you want list of all Paris 2024 Olympics archery athletes from different countries.",
+    ),
+
+    create_retriever_tool(
+        retriever_recurve,
+        "Recurve_Final_Standings_Paris_2024",
+        "Use when user asks about the recurve archery standings for Paris 2024.",
     ),
 
     StructuredTool.from_function(
