@@ -642,37 +642,97 @@ graph = workflow.compile()
 
 # Initialize session states if not already set
 
+import streamlit as st
 from langchain.schema import HumanMessage, AIMessage
+import re
+
+# Custom CSS for Olympic theme
+st.markdown("""
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+    .stApp {
+        background-color: #f0f0f0;
+        font-family: 'Roboto', sans-serif;
+    }
+    .main .block-container {
+        padding-top: 2rem;
+    }
+    h1, h2, h3 {
+        color: #0081C8;
+    }
+    .css-1d391kg {
+        background-color: #f0f0f0;
+    }
+    .stButton>button {
+        background-color: #0081C8;
+        color: white;
+        border-radius: 20px;
+        border: none;
+        padding: 0.5rem 1rem;
+        font-weight: bold;
+        transition: all 0.3s ease;
+    }
+    .stButton>button:hover {
+        background-color: #005c8f;
+    }
+    .stTextInput>div>div>input {
+        border-color: #0081C8;
+        border-radius: 20px;
+    }
+    .stChatMessage {
+        background-color: #ffffff;
+        border-radius: 15px;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .stChatMessage.user {
+        background-color: #e6f3ff;
+    }
+    .stChatMessage .content p {
+        margin-bottom: 0;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+st.title("Paris 2024 Olympics Chatbot")
 
 if "messages" not in st.session_state:
-    st.session_state.messages = [{"role": "assistant", "content": "Welcome to Paris 2024 Olympics Chatbot! How may I assist you?"}]
+    st.session_state.messages = []
 if 'chat_sessions' not in st.session_state:
     st.session_state.chat_sessions = {}
 if 'selected_chat' not in st.session_state:
     st.session_state.selected_chat = None
+if 'new_session' not in st.session_state:
+    st.session_state.new_session = True
 
-st.sidebar.write("Existing Chat Sessions:")
+def generate_session_name(message):
+    words = re.findall(r'\b\w+\b', message.lower())
+    stopwords = set(['the', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by'])
+    key_words = [word for word in words if word not in stopwords]
+    session_name = ' '.join(key_words[:min(5, len(key_words))])
+    return session_name.capitalize()
+
+st.sidebar.title("Chat Sessions")
 if st.session_state.chat_sessions:
+    st.sidebar.markdown("Existing Chat Sessions:")
     for session_id in st.session_state.chat_sessions.keys():
-        if st.sidebar.button(session_id):
+        if st.sidebar.button(f"📅 {session_id}"):
             st.session_state.selected_chat = session_id
             st.session_state.messages = st.session_state.chat_sessions[session_id]
+            st.session_state.new_session = False
 else:
-    st.sidebar.write("No chat sessions available. Start a new one by entering a Chat Session ID below.")
-
-new_chat_id = st.sidebar.text_input("Enter New Chat Session ID")
-if st.sidebar.button("Start New Chat Session") and new_chat_id:
-    if new_chat_id not in st.session_state.chat_sessions:
-        st.session_state.chat_sessions[new_chat_id] = [{"role": "assistant", "content": "Welcome to Paris 2024 Olympics Chatbot! How may I assist you?"}]
-    st.session_state.selected_chat = new_chat_id
-    st.session_state.messages = st.session_state.chat_sessions[new_chat_id]
+    st.sidebar.info("No chat sessions available. Start chatting to create a new session!")
 
 def clear_chat_history():
-    st.session_state.messages = [{"role": "assistant", "content": "Welcome to Paris 2024 Olympics Chatbot! How may I assist you?"}]
     if st.session_state.selected_chat:
-        st.session_state.chat_sessions[st.session_state.selected_chat] = st.session_state.messages
+        del st.session_state.chat_sessions[st.session_state.selected_chat]
+    st.session_state.messages = []
+    st.session_state.new_session = True
+    st.session_state.selected_chat = None
 
-st.sidebar.button('Clear Chat History', on_click=clear_chat_history)
+st.sidebar.button('🗑️ Clear Chat History', on_click=clear_chat_history)
 
 def generate_response(question, chat_history):
     messages = [
@@ -682,29 +742,35 @@ def generate_response(question, chat_history):
     messages.append(HumanMessage(content=question))
     
     response = graph.invoke({"messages": messages})
-    print(response, type(response))
     return response["messages"][-1].content
 
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+if prompt := st.chat_input("Ask about the Paris 2024 Olympics..."):
+    with st.chat_message("user"):
+        st.markdown(prompt)
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    
+    if st.session_state.new_session:
+        session_name = generate_session_name(prompt)
+        st.session_state.selected_chat = session_name
+        st.session_state.new_session = False
+    
+    with st.spinner("🏅 Generating response..."):
+        response = generate_response(prompt, st.session_state.messages)
+        with st.chat_message("assistant"):
+            st.markdown(response)
+    
+    st.session_state.messages.append({"role": "assistant", "content": response})
+    st.session_state.chat_sessions[st.session_state.selected_chat] = st.session_state.messages
+
 if st.session_state.selected_chat:
-    # Display chat messages from history on app rerun
-    for message in st.session_state.messages:
-        with st.chat_message(message["role"]):
-            st.markdown(message["content"])
-       
-    if prompt := st.chat_input("Ask me anything"):
-        # Add user message to chat history
-        with st.chat_message("user"):
-            st.markdown(prompt)
-        st.session_state.messages.append({"role": "user", "content": prompt})
-        
-        with st.spinner("Generating response..."):
-            response = generate_response(prompt, st.session_state.messages)
-            print(response)
-            with st.chat_message("assistant"):
-                st.markdown(response)
-        
-        st.session_state.messages.append({"role": "assistant", "content": response})
-        
-        # Update the chat session in st.session_state.chat_sessions
-        st.session_state.chat_sessions[st.session_state.selected_chat] = st.session_state.messages
+    st.sidebar.success(f"Current Session: {st.session_state.selected_chat}")
+
+# Footer
+st.markdown("---")
+st.markdown("🏅 Powered by AI - Bringing the Olympic spirit to your conversations!")
+
 
