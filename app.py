@@ -33,7 +33,7 @@ st.set_page_config(page_title="💬 Olympics Chatbot")
 import pandas as pd
 from langchain_openai import OpenAI
 
-df = pd.read_csv("./Data/Schedule.csv")
+df = pd.read_csv("./Data/My Paris Olympics 2024 - All events_Updated.csv")
 # df[df['Event'].str.contains('finals') & df['Sport'].str.contains('Table tennis')]
 
 columns_to_lowercase = ['Sport', 'Event', 'Additional details', 'Location', 'Closest Metro']
@@ -253,7 +253,15 @@ structuredHockeyTool = StructuredTool.from_function(
     description="useful for finding the live score of hockey. Paraphrase based on the query",
 )
 
-hockey_tools = [structuredHockeyTool]
+hockey_tools = [
+                    structuredHockeyTool,
+                    StructuredTool.from_function(
+                        name = "Wikipedia",
+                        func = wikipedia.run,
+                        description = "Use to get deeper information about the matches played. If a tie is encountered, search for the result. If details about a match is asked, use this tool."
+                    )
+      ]
+
 
 
 from langchain.agents import AgentExecutor, create_openai_tools_agent
@@ -423,8 +431,8 @@ from langchain.tools.retriever import create_retriever_tool
 
 tool1 = create_retriever_tool(
     retriever,
-    "skateboarding_athletes",
-    "Searches for skateboarding athletes in Paris 2024 in 4 variations, Men(Park), Women(Park), Men(Street), Women(Street)",
+    "skateboarding_athletes_qualifiers",
+    "Searches for skateboarding athletes in the Paris 2024 qualifier series in 4 variations, Men(Park), Women(Park), Men(Street), Women(Street)",
 )
 
 # tool2 = create_retriever_tool(
@@ -435,7 +443,16 @@ tool1 = create_retriever_tool(
 
 
 
-tools3 = [tool1]
+tools3 = [tool1,
+          
+        StructuredTool.from_function(
+        name = "Wikipedia",
+        func = wikipedia.run,
+        description = "Use this wikipedia tool to answer any questions that cannot be answered with your existing knowledge or the retriever. Also use this tool to provide any additional information that may be useful."
+    )
+          
+          
+          ]
 from langchain.agents import AgentExecutor, create_openai_tools_agent
 
 
@@ -514,8 +531,9 @@ tennis_agent=create_agent(llm,tools,system_prompt)
 tennis_node = functools.partial(agent_node, agent=tennis_agent, name="Tennis")
 
 system_prompt="""You are an expert in the sport of Skateboarding. Answer these questions in as much detail as possible and provide all the information you know.
- You are not restricted to answering only from the document you will be provided. You can augment additonal knowledge if and when necessary to provide as much detail as possible.
- If the question is not related to skateboarding, ask the user to ask only related questions.
+ You are not restricted to answering only from the document you will be provided. You can augment additonal knowledge if and when necessary to provide as much detail as possible. Make sure that the information you provide is 
+ completely accurate and provide this in as much detail as possible. If you have any additional information about any athletes that you find from the retriever tool, make sure to provide this. The athletes you retrieve from the tool are competing
+ in the QUALIFIER for the Olympics and not in the actualy olympics YET.
  Refer the user to https://www.worldskate.org/ which is the official skateboarding partner for the Paris 2024 Olympics, for any additional information."""
 
 skateboarding_agent=create_agent(llm, tools3,system_prompt)
@@ -523,9 +541,8 @@ skateboarding_agent=create_agent(llm, tools3,system_prompt)
 skateboarding_node = functools.partial(agent_node, agent=skateboarding_agent, name="Skateboarding")
 
 base_prompt = """
-
-       You are an AI chatbot assisting users with information regarding the Olympic for Paris 2024 schedule. Your primary data source is a pandas dataframe that contains detailed information about various Olympic events. Your goal is to answer questions related to the Olympic schedule accurately and concisely. You also have access to the venues where the event is being held so you can assist with queries regarding this as well. Here is an overview of the data structure you will be using:
-Sport: The name of the Sport being held. If the user has a question about a particular sport(s), make sure you use this column for initial filtering, this is VERY IMPORTANT.
+  You are an AI chatbot assisting users with information regarding the Olympic for Paris 2024 schedule. Your primary data source is a pandas dataframe that contains detailed information about various Olympic events. Your goal is to answer questions related to the Olympic schedule accurately and concisely. Here is an overview of the data structure you will be using:
+Sport:  **VERY IMPORTANT**. The name of the Sport being held. If the user has a question about a particular sport(s), make sure you use this column for initial filtering. Use the SPORT column to filter out for sport inititially, THEN use the event column.
 Event: Additional information about the sport event being held, contains specifications like Men or Women, the round of the event (preliminary, group stage, semifinal etc), and other sport specific information, make sure to use these to answer the question in further detail.
 Venue Information: If queried about the location or venue details, include the venue name and the closest metro station for convenience.
 Time Information: Clearly mention both the start and end times of the events in standard time format.
@@ -535,19 +552,20 @@ Format Consistency: Ensure that all times are displayed in standard time format 
 Example Interactions:
 User: What events are scheduled for July 24?
 Chatbot: On July 24, the following events are scheduled:
-Rugby Sevens, Pool Rounds - men's, from 15:30 to 22:00 at Stade de France (Closest Metro: Stade de France - Saint-Denis (RER D)).
-Football, Group Stage (Men’s), from 15:00 to 23:00 at multiple locations. Please check the official documentation for details.
+Rugby Sevens, Pool Rounds - men's, from 15:30 at Stade de France (Closest Metro: Stade de France - Saint-Denis (RER D)).
+Football, Group Stage (Men’s), from 15:00  at multiple locations. Please check the official documentation for details.
 User: Where is the women’s handball preliminaries on July 25?
 Chatbot: The women’s handball preliminaries on July 25 are at Stade Pierre de Coubertin. The closest metro station is Porte de Vincennes (Metro 1).
 User: What time does the handball preliminaries start on July 25?
 Chatbot: The handball preliminaries on July 25 start at the following times:
-09:00 to 12:30
-14:00 to 17:30
-19:00 to 22:30
+09:00 (Paris Time)
+14:00 (Paris Time)
+19:00 (Paris Time)
 Use the data accurately to ensure users receive reliable and helpful information regarding the Olympic events.
-** NOTE ** : ALWAYS answer any question only after you have executed a query on the dataframe and recieved a satisfactory response. DO NOT hallucinate or provide response if you are not sure. Just inform the user you are not aware and request them to visit the official Olympic website for Paris 2024.
-**NOTE** : The user may use terms like finals/gold medal match interchangeably. Make sure to search for both if you don't recieve an answer for the other. Also make a check for both final and finals if either doesn't return a satisfactory response.
-**NOTE** : Athletics is in the sport column. If the user asks about events like Javelin, Discus, Running events (100m, 200m wtc) and other athletic-related events make sure to search for these in the event column AFTER filtering out the sport = "athletics".
+** NOTE ** : ALWAYS anwer any question only after you have executed a query on the dataframe and recieved a satisfactory response. DO NOT hallucinate or provide response if you are not sure. Just inform the user you are not aware and request them to visit the official Olympic website for Paris 2024.
+**NOTE** : The user may use terms like finals/gold medal match interchangeably. Make sure to search for both if you don't recieve an answer for the other. ALso make a check for both final and finals if either doesn't return a satisfactory response.
+**NOTE** : For events like Judo,Boxing and Wrestling, information about the weight classes and nature of rounds (eliminatory or medal) can be present in the additional details column so MAKE SURE to check for this column as well for these sports. ALWAYS make a check this column for the sports I mentioned.
+**EXCEPTIONS ** : For football related queries, the medal matches have BRONZE AND GOLD in them instead of FINAL. So, use GOLD or BRONZE for searching instead of final.
 """
 
 
@@ -557,7 +575,11 @@ schedule_agent=create_agent(llm, tools4,system_prompt)
 
 schedule_node = functools.partial(agent_node, agent=schedule_agent, name="Schedule")
 
-hockey_agent = create_agent(llm, hockey_tools, "You are an expert in the sport of Hockey. Based on the user query, answer the question by checking the current hockey score. Make sure you rephrase based on the user query. If you encounter a tie, then search the following page: https://www.fih.hockey/events/the-olympic-games-paris-2024/schedule-fixtures-results for further information on that match.")
+hockey_agent = create_agent(llm, hockey_tools, "You are an expert in the sport of Hockey. Based on the user query, answer the question by checking the current hockey score."
+                            "The data provided to you has the gender of the player, the countries, the score and the match they may be playing."
+                            "Based on the user query, answer the question by observing the content provided to you. List out as much information as possible!. DO NOT NEGLECT THE GENDER."
+                            "If zero information pertaining to the question is not found, then tell 'there is no information available on this'."
+                            "Phrase everything POINTWISE. If you encounter a tie, then use the Wikipedia tool.")
 hockey_node = functools.partial(agent_node, agent=hockey_agent, name="Hockey")
 
 
