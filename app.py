@@ -567,7 +567,9 @@ Use the data accurately to ensure users receive reliable and helpful information
 ** NOTE ** : ALWAYS anwer any question only after you have executed a query on the dataframe and recieved a satisfactory response. DO NOT hallucinate or provide response if you are not sure. Just inform the user you are not aware and request them to visit the official Olympic website for Paris 2024.
 **NOTE** : The user may use terms like finals/gold medal match interchangeably. Make sure to search for both if you don't recieve an answer for the other. ALso make a check for both final and finals if either doesn't return a satisfactory response.
 **NOTE** : For events like Judo,Boxing and Wrestling, information about the weight classes and nature of rounds (eliminatory or medal) can be present in the additional details column so MAKE SURE to check for this column as well for these sports. ALWAYS make a check this column for the sports I mentioned.
+**NOTE** : For the sport swimming, the events column contains shortened names for events. For example, butterfly is 'fly', freestyle is 'free', breaststroke is 'breast', backstroke is 'back', Individual Medley is 'IM'. The events column is VERY important for any questions concerning swimming so make sure to check the events column EVERYTIME.
 **EXCEPTIONS ** : For football related queries, the medal matches have BRONZE AND GOLD in them instead of FINAL. So, use GOLD or BRONZE for searching instead of final.
+**EXCEPTIONS ** : For skateboarding, the sport is just 'skateboard'.
 """
 
 
