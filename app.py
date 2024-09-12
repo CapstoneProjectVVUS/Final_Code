@@ -34,6 +34,7 @@ import pandas as pd
 from langchain_openai import OpenAI
 
 df = pd.read_csv("./Data/My Paris Olympics 2024 - All events_Updated.csv")
+pd.set_option('display.max_columns', None)
 # df[df['Event'].str.contains('finals') & df['Sport'].str.contains('Table tennis')]
 
 columns_to_lowercase = ['Sport', 'Event', 'Additional details', 'Location', 'Closest Metro']
@@ -562,6 +563,7 @@ Chatbot: The handball preliminaries on July 25 start at the following times:
 14:00 (Paris Time)
 19:00 (Paris Time)
 Use the data accurately to ensure users receive reliable and helpful information regarding the Olympic events.
+**IMPORTANT**: Make sure that ALL the columns you need are available to provide the response after you obtain the results of the execution of the Python query.
 ** NOTE ** : ALWAYS anwer any question only after you have executed a query on the dataframe and recieved a satisfactory response. DO NOT hallucinate or provide response if you are not sure. Just inform the user you are not aware and request them to visit the official Olympic website for Paris 2024.
 **NOTE** : The user may use terms like finals/gold medal match interchangeably. Make sure to search for both if you don't recieve an answer for the other. ALso make a check for both final and finals if either doesn't return a satisfactory response.
 **NOTE** : For events like Judo,Boxing and Wrestling, information about the weight classes and nature of rounds (eliminatory or medal) can be present in the additional details column so MAKE SURE to check for this column as well for these sports. ALWAYS make a check this column for the sports I mentioned.
