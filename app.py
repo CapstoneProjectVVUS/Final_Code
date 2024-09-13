@@ -343,12 +343,11 @@ system_prompt = (
     "You are a supervisor tasked with managing a conversation between the"
     " following workers:  {members}. Given the following user request,"
     " respond with the worker to act next. Each worker will perform a"
-    " task and respond with their results and status. When finished,"
-    " respond with FINISH. You HAVE to choose ONLY from these members."
+    " task and respond with their results and status. You HAVE to choose ONLY from these members."
 )
 # Our team supervisor is an LLM node. It just picks the next agent to process
 # and decides when the work is completed
-options = ["FINISH"] + members
+options =  members
 # Using openai function calling can make output parsing easier for us
 function_def = {
     "name": "route",
@@ -419,6 +418,7 @@ text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 texts = text_splitter.split_documents(documents)
 embeddings = OpenAIEmbeddings()
 db = FAISS.from_documents(texts, embeddings)
+db_skateboard = db
 
 # text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
 # texts2 = text_splitter.split_documents(documents2)
