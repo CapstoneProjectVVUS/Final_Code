@@ -251,7 +251,7 @@ class CustomHockeyTool(BaseTool):
 structuredHockeyTool = StructuredTool.from_function(
     func=CustomHockeyTool._run,
     name="Hockey",
-    description="useful for finding the live score of hockey. Paraphrase based on the query",
+    description="useful for finding the live score of hockey and for the Olympics.",
 )
 
 hockey_tools = [
@@ -259,7 +259,7 @@ hockey_tools = [
                     StructuredTool.from_function(
                         name = "Wikipedia",
                         func = wikipedia.run,
-                        description = "Use to get deeper information about the matches played. If a tie is encountered, search for the result. If details about a match is asked, use this tool."
+                        description = "Use to get deeper information about the matches played, and Olympic hockey in general. If a tie is encountered, search for the result. If details about a match is asked, use this tool."
                     )
       ]
 
@@ -579,9 +579,10 @@ schedule_agent=create_agent(llm, tools4,system_prompt)
 
 schedule_node = functools.partial(agent_node, agent=schedule_agent, name="Schedule")
 
-hockey_agent = create_agent(llm, hockey_tools, "You are an expert in the sport of Hockey. Based on the user query, answer the question by checking the current hockey score."
+hockey_agent = create_agent(llm, hockey_tools, "You are an expert in the sport of Hockey. THIS IS NOT THE SPORT OF ICE HOCKEY. Based on the user query, answer the question by checking the current hockey score."
                             "The data provided to you has the gender of the player, the countries, the score and the match they may be playing."
                             "Based on the user query, answer the question by observing the content provided to you. List out as much information as possible!. DO NOT NEGLECT THE GENDER."
+                            "Use the hockey tool first. If the answer to the query is not found using the score tool, use the Wikipedia tool for information."
                             "If zero information pertaining to the question is not found, then tell 'there is no information available on this'."
                             "Phrase everything POINTWISE. If you encounter a tie, then use the Wikipedia tool.")
 hockey_node = functools.partial(agent_node, agent=hockey_agent, name="Hockey")
@@ -656,7 +657,7 @@ st.markdown("""
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
     .stApp {
-        background-color: #f0f0f0;
+        background-color: #000000;
         font-family: 'Roboto', sans-serif;
     }
     .main .block-container {
@@ -666,7 +667,7 @@ st.markdown("""
         color: #0081C8;
     }
     .css-1d391kg {
-        background-color: #f0f0f0;
+        background-color: #000000;
     }
     .stButton>button {
         background-color: #0081C8;
@@ -685,7 +686,7 @@ st.markdown("""
         border-radius: 20px;
     }
     .stChatMessage {
-        background-color: #ffffff;
+        background-color: #000000;
         border-radius: 15px;
         padding: 1rem;
         margin-bottom: 1rem;
